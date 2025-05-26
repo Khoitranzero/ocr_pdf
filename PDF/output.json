@@ -1,0 +1,34 @@
+{
+  "id": "ce7b8149-cbce-410f-a209-501a9c45a1e5",
+  "name": "output.pdf",
+  "data": {
+    "text": {
+      "page_1": "Created with an evaluation copy of Aspose.Words. To remove all limitations, you\ncan use Free Temporary License https://products.aspose.com/words/temporary-\nlicense/\nBảng điểm\nstt Môn học Điểm\n1 Toán 8\n2 Văn 7\nCác thành phần chính của máy tính\nEvaluation Only. Created with Aspose.Words. Copyright 2003-2025 Aspose Pty\nLtd."
+    },
+    "table": {
+      "page_1": [
+        [
+          [
+            "stt",
+            "Môn học",
+            "Điểm"
+          ],
+          [
+            "1",
+            "Toán",
+            "8"
+          ],
+          [
+            "2",
+            "Văn",
+            "7"
+          ]
+        ]
+      ]
+    },
+    "image": "[Trang 1 - Hình 1]\nCentral Processing\nUnit (CPU)\nArithmeticl\nlogic\nData\nData .\nInput\nControl\nOutput\ninformation\ninformation\nControl signals\nMemory\nData or information\n\n[Trang 1 - Hình 2]\nASPOSE\nYour File Format APIs"
+  },
+  "created_at": "2025-05-26T08:34:16.004150",
+  "updated_at": "2025-05-26T08:31:28.007153",
+  "file_size": 285478
+}

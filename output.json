@@ -1,0 +1,2740 @@
+{
+  "id": "a082243f-09fa-4758-97cf-7e0de39ac1bb",
+  "name": "MEG. CP. THUYET MINH TKKT 1 rev signed.pdf",
+  "data": {
+    "text": {
+      "page_4": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nVI.1.5 Bảo vệ chống lại ánh sáng ............................................................................................. 37\nVI.1.6 Nhiệt đới hóa ................................................................................................................. 37\nVI.1.7 Tính toán sơ bộ cho phụ tải ........................................................................................... 37\nVI.1.8 Mô tả hệ thống ............................................................................................................... 40\nVI.2 HỆ THỐNG CÁC TỦ PHÂN PHỐI ............................................................................ 40\nVI.2.1 Tủ phân phối .................................................................................................................. 40\nVI.2.2 Hệ thống điện động lực, cấp nguồn thiết bị .................................................................. 41\nVI.2.3 Cáp điện ......................................................................................................................... 41\nVI.3 HỆ THỐNG CHIẾU SÁNG .......................................................................................... 41\nVI.4 HỆ THỐNG Ổ CẮM ĐIỆN .......................................................................................... 42\nVI.5 HỆ THỐNG NỐI ĐẤT .................................................................................................. 42\nVI.6 HỆ THỐNG MẠNG ...................................................................................................... 42\nVI.7 HỆ THỐNG CAMERA GIÁM SÁT ............................................................................ 43\nVI.8 HỆ THỐNG KIỂM SOÁT CỬA .................................................................................. 43\nVI.9 HỆ THỐNG LOA THÔNG BÁO ................................................................................. 44\nTrang 4/44",
+      "page_5": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nPHẦN I. KIẾN TRÚC\nI.1. CÁC TIÊU CHUẨN, QUY CHUẨN THIẾT KẾ\nQCVN 01:2021/BXD: Quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng\nQCVN 03:2022/BXD: Quy chuẩn kỹ thuật quốc gia về Phân cấp công trình phục vụ thiết kế xây dựng\nQCVN 05:2008/BXD: Quy chuẩn xây dựng Việt Nam về Công trình công cộng – an toàn sinh mạng và sức\nkhỏe\nQCVN 06:2022/BXD : Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và công trình\nSửa đổi 1:2023 QCVN 06:2022/BXD Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và công trình.\nQCVN 10:2014/BXD: Quy chuẩn kỹ thuật quốc gia về Xây dựng công trình đảm bảo người khuyết tật tiếp\ncận sử dụng\nTCVN 3905 : 2012: Nhà ở và công trình công cộng. Thông số hình học\nTCVN 4319 : 2012: Nhà ở và công trình công cộng. Nguyên tắc cơ bản để thiết kế\nTCVN 4606 : 2012: Xí nghiệp công nghiệp. Nhà sản xuất. Tiêu chuẩn thiết kế.\nTCVN 4514:2012 : Xí nghiệp công nghiệp. Tổng mặt bằng. Tiêu chuẩn thiết kế.\nI.2. GIỚI THIỆU CHUNG VỀ DỰ ÁN\nTổng quát\nVị trí xây dựng: Khu đất xây dựng nằm tại Lô C8a-1, C8a-2, C8b-3, Đường Dọc 1, Khu Công Nghiệp Phú\nAn Thạnh, Xã An Thạnh, Huyện Bến Lức, Tỉnh Long An.\nHướng Bắc: giáp Đường Dọc 1\nHướng Đông: giáp Đường Ngang 4\nHướng Nam: giáp Lô đất C8b\nHướng Tây: giáp Lô đất C7\nTổng diện tích khu đất xây dựng: 15.211,00 m2\nDiện tích xây dựng: 3.253,61 m2\nCấp công trình: Cấp III\nCác văn bản pháp lý của dự án, thành phần bao gồm:\n- Giấy chứng nhận đăng ký đầu tư số 9881877053 ngày 26/8/2024 do Ban Quản lý Khu kinh tế tỉnh\nLong An cấp.\n- Giấy chứng nhận đăng kí doanh nghiệp công ty trách nhiệm hữu hạn một thành viên , mã số doang\nnghiệp 1102070294, do Sở kế hoạch và đầu tư tỉnh Long An cấp lần đầu ngày 24/09/2024, thay đổi\nlần 1 ngày 19/12/2024\n- Hợp đồng cho thuê, cho thuê lại quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản số\n09/2024/HĐTĐ/PAT-LA do Công ty TNHH một thành viên Phú An Thạnh – Long An cho Công ty\nTNHH Megmilk Snow Brand thuê.\nTrang 5/44",
+      "page_6": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n- Giấy chứng nhận Quyền sử dụng đất, Quyền sở hữu nhà ở và tài sản khác gắn liền với đất mã số\nDQ570987 ngày 31/12/2024 do Văn phòng đăng ký đất đai tỉnh Long An cấp.\n- Giấy chứng nhận Quyền sử dụng đất, Quyền sở hữu nhà ở và tài sản khác gắn liền với đất mã số\nDQ570988 ngày 31/12/2024 do Văn phòng đăng ký đất đai tỉnh Long An cấp.\n- Công văn số 206/UBND ngày 4/12/2024 của Ủy ban nhân dân xã An Thạnh về việc tiếp nhận hồ sơ\nđăng ký môi trường của dự án “Megmilk Snow Brand Việt Nam”.\n- Giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy số 134/TD-PCCC ngày 25/3/2025\ndo Phòng CS PCCC và CNCH – Công an tỉnh Long An cấp.\n- Quyết định số 48/QĐ-BQLKKT ngày 21/3/2025 của Ban Quản lý Khu kinh tế - Ủy ban nhân dân tỉnh\nLong An về việc phê duyệt đồ án quy hoạch chi tiết xây dựng tỷ lệ 1/500 dự án Megmilk Snow Brand\nViệt Nam tại Lô C8a-1, C8a-2, C8b-3, Đường Dọc 1, Khu công nghiệp Phú An Thạnh, xã An Thạnh,\nhuyện Bến Lức, tỉnh Long An.\n- Văn bản số 911 ngày 14/04/2025 của Ban Quản lý Khu kinh tế tỉnh Long An về việc thông báo kết\nquả thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng Dự án Megmilk Snow Brand Việt Nam.\n- Biên bản thoả thuận đấu nối hạ tầng kỹ thuật khu công nghiệp Phú An Thạnh ngày 06/12/2024 giữa\nCông ty TNHH MTV Phú An Thạnh – Long An và Công ty TNHH Megmilk Snow Brand Việt Nam.\nI.3. PHƯƠNG ÁN THIẾT KẾ\nGiải pháp tổng mặt bằng\n• Tổng diện tích khu đất: 15.211,00 m2\n• Các hạng mục của công trình được bố trí hài hòa, màu sắc phù hợp với công trình công nghiệp\nvà cảnh quan xung quanh. Diện tích và tỉ lệ các thành phần trong khu đất được thống kê theo\nbảng cân bằng đất đai bên dưới\n• Tổng diện tích sàn: 4.472,04 m2\nBảng 3.1 – Bảng cân bằng đất đai\nSTT LOẠI ĐẤT DIỆN TÍCH (m2) TỈ LỆ (%)\n1 Diện tích khu đất 15.211,00 100%\n2 Đường & sân bãi 8.041,37 52.87%\n3 Đất cây xanh 3.916,02 25.74%\n4 Đất xây dựng công trình 3.253,61 21.39%\nĐất xây dựng nhà máy, kho tàng và dịch vụ 2.765,84 18,18%\nĐất xây dựng công trình hạ tầng kỹ thuật 487,77 3,21%\n• Mật độ xây dựng: 21.31% (Không bao gồm diện tích nhà bảo vệ - Căn cứ điều 1.4.20, mục\n1.4, QCVN 01:2021/BXD)\nTrang 6/44",
+      "page_7": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nCác hạng mục xây dựng\nNhà máy + văn phòng\n- Diện tích tầng 1: 2.394,25 m2\n- Diện tích tầng 2: 1.406,06 m2\nCác hạng mục khác:\n- Cổng chính\n- Mái che thép\n- Mái đón bê tông\n- Nhà bảo vệ: 12,60 m2\n- Phòng bơm: 42,00 m2\n- Phòng bơm chữa cháy: 39,00 m2\n- Trạm xử lý nước thải: 120,00 m2\n- Bãi đỗ xe máy có mái che: 108,56 m2\n- Bãi đỗ xe hơi không mái: 100,00 m2\n- Nhà rác: 18,00 m2\n- Nhà điều hành: 44,80 m2\n- Bể nước ngầm: 18,00 m2\n- Bể nước chữa cháy: 170,00 m2\n- Trạm điện: 21,00 m2\n- Trạm khí gas: 70,00 m2\n- Máy phát điện: 7,77 m2\n- Cột cờ\nChi tiết các hạng mục\n1. Nhà máy – văn phòng:\n- Loại công trình: Công nghiệp; Cấp công trình: Cấp III.\n- Diện tích xây dựng công trình: 2.394,25 m²\n- Tổng diện tích sàn: 3.800,31 m²\n- Chiều cao công trình: 13,48 m tính từ cao độ nền đường hoàn thiện\n- Số tầng: 02 tầng (Nhà máy, trong đó có khối văn phòng 2 tầng)\n- Cao độ nền đường hoàn thiện +2,810 m\n- Nền nhà cao hơn nền sân đường hoàn thiện +0,150 m.\nTrang 7/44",
+      "page_8": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n- Thông tin kết cấu:\n+ Móng cọc BTCT, cột BTCT, đà kiềng, dầm, sàn BTCT đổ tại chỗ.\n+ Kết cấu thép tổ hợp.\n+ Mái lợp tôn mạ kẽm, có kèm lớp cách nhiệt, xà gồ thép tiền chế.\n- Bao gồm các khu vực:\nKhu vực kho bao bì và kho sản phẩm:\n• Diện tích khoảng 719,58 m2\n• Bao gồm: Phòng đệm, kho lạnh 5°C, phòng cân, phòng cân chất gây dị ứng, kho vật\nliệu, kho bao bì, kho thành phẩm 5°C, kho phụ tùng, phòng lưu trữ.\n• Kết cấu: Cột, dầm giằng bê tông cốt thép đảm bảo GHCL R ≥ 90, kèo thép sơn chống\ncháy GHCL R90, mái lợp tôn, có lớp cách nhiệt sợi thủy tinh.\n• Sàn: Sàn bê tông phủ chất làm cứng, sàn chính đảm bảo REI ≥ 45\n• Trần:\nKho bao bì: Trần thạch cao\no\nKho sản phẩm: Trần PU\no\nKhu vực sản xuất\n• Có 2 tầng: Tầng 1 và tầng 2\n• Diện tích tầng 1 khoảng 1.453,13 m2\n• Diện tích tầng 2 khoảng 407,84 m2\n• Kết cấu: Cột, dầm giằng bê tông cốt thép đảm bảo GHCL R ≥ 90, kèo thép sơn chống\ncháy GHCL R90, mái lợp tôn, có lớp cách nhiệt sợi thủy tinh.\n• Sàn: Tầng 1 sử dụng sàn bê tông phủ chất làm cứng, tầng 2 sử dụng sàn PU\n• Trần: Trần PU\nKhu vực kỹ thuật phụ trợ\n• Có 2 tầng: Tầng 1 (phòng đun hơi, phòng điện) và tầng lửng 2 + 2500 (phòng AHU)\n• Diện tích tầng 1 khoảng 112,60 m2\n• Diện tích tầng lửng (2 + 2500) khoảng 119,09 m2\n• Kết cấu: Cột, dầm giằng bê tông cốt thép đảm bảo GHCL R ≥ 90, kèo thép sơn chống\ncháy GHCL R90, mái lợp tôn, có lớp cách nhiệt sợi thủy tinh.\n• Sàn: Sàn bê tông phủ chất làm cứng, sàn chính đảm bảo REI ≥ 45\n• Trần: Trần T-bar, tấm Laminate; phòng AHU để lộ kết cấu trần\nKhu vực nhà ăn và bếp\n• Diện tích khoảng 244,82 m2\nTrang 8/44",
+      "page_9": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n• Kết cấu: Cột, dầm giằng bê tông cốt thép đảm bảo GHCL R≥ 90\n• Sàn: Lát gạch nhựa vinyl, sàn chính đảm bảo REI ≥ 45\n• Trần: Trần thạch cao\nKhu vực văn phòng\n• Diện tích khoảng 263,99 m2\n• Bao gồm: Khu vực văn phòng, các phòng họp…\n• Kết cấu: Cột, dầm giằng bê tông cốt thép đảm bảo GHCL R≥90, kèo thép sơn chống\ncháy GHCL R90, mái lợp tôn, có lớp cách nhiệt sợi thủy tinh.\n• Sàn: Lát gạch nhựa vinyl cho hành lang, lót thảm cho văn phòng, phòng họp, phòng\nquản lý, sàn chính đảm bảo REI ≥45\n• Trần: Trần thạch cao\nKhu vực vệ sinh\n• Có 2 tầng: Tầng 1 và tầng 2\n• Diện tích tầng 1 khoảng 145,86 m2\n• Diện tích tầng 2 khoảng 69,41 m2\n• Tầng 1: WC (F) 1-1, NHÀ VỆ SINH NAM 1-1, WC (F) 1-2, NHÀ VỆ SINH NAM 1-\n2, WC (Handicapped), WC (F) 1-3, NHÀ VỆ SINH NAM 1-3\n• Tầng 2: WC (F) 2-1, NHÀ VỆ SINH NAM 2-1, WC (F) 2-2, NHÀ VỆ SINH NAM 2-\n2\n• Kết cấu: Cột, dầm giằng bê tông cốt thép\n• Sàn: Lát gạch ceramic chống trượt, sàn chính đảm bảo REI ≥ 45\n• Trần: Trần thạch cao\n• Tường: Lát gạch ceramic\n2. Nhà để xe máy có mái:\n- Loại công trình: Công trình hạ tầng kĩ thuật. Cấp công trình: Cấp IV.\n- Diện tích xây dựng: 9,44 m x 11,5 m = 108,56 m²\n- Tổng diện tích sàn xây dựng: 108,56 m²\n- Chiều cao công trình: 3,21 m tính từ cao độ nền đường đặt công trình.\n- Số tầng: 01 tầng\n- Thông tin kết cấu: Móng cọc BTCT; nền BTCT, cột thép, khung kèo thép, mái lợp tôn.\n3. Nhà rác:\n- Loại công trình: Công trình hạ tầng kĩ thuật. Cấp công trình: Cấp IV.\n- Diện tích xây dựng: 3,0 m x 6,0 m = 18,00 m²\nTrang 9/44",
+      "page_10": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n- Tổng diện tích sàn xây dựng: 18,00 m²\n- Chiều cao công trình: 3,6 m tính từ cao độ nền đường đặt công trình.\n- Số tầng: 01 tầng\n- Thông tin kết cấu: Móng cọc BTCT; nền BTCT, cột BTCT, khung kèo thép, mái lợp tôn.\n4. Phòng bơm và bể nước ngầm:\n- Loại công trình: Công trình hạ tầng kĩ thuật. Cấp công trình: Cấp IV.\n- Phòng bơm: DT 6,0 m x 7,0 m = 42,00 m2, chiều cao công trình 4,6m tính từ cao độ nền\nđường đặt công trình, 01 tầng.\n- Bể nước ngầm dưới phòng bơm, DT 4,0 m x 4,5 m = 18,00 m2, chiều sâu 2m tính từ cao\nđộ nền đường đặt công trình phòng bơm, thể tích 25,4m3\n- Thông tin kết cấu: Tường gạch bê tông nhẹ, nhà bơm cột, dầm BTCT, mái lợp tôn;\nBTCT toàn khối cho bể nước ngầm âm.\n- Tổng diện tích sàn: 60,00 m2\n5. Nhà bảo vệ:\n- Loại công trình: Công nghiệp; Cấp công trình: Cấp IV.\n- Diện tích xây dựng: 3,0 m x 4,2 m = 12,6 m2\n- Tổng diện tích sàn: 12,6 m2\n- Chiều cao công trình: 3,7 m tính từ cao độ nền đường đặt công trình\n- Số tầng: 01 tầng\n- Thông tin kết cấu: Móng cọc BTCT; nền BTCT, cột BTCT, sàn mái BTCT.\n6. Trạm điện:\n- Loại công trình: Công trình công nghiệp. Cấp công trình: Cấp IV.\n- Diện tích xây dựng: 3m x 7m = 21 m²\n- Tổng diện tích sàn xây dựng: 21 m²\n- Chiều cao công trình: 2,14 m tính từ cao độ nền đường đặt công trình\n- Số tầng: 01 tầng\n- Thông tin kết cấu: Móng cọc BTCT, nền BTCT, cột thép, tường lưới thép, không mái.\n7. Trạm khí gas:\n- Loại công trình: Công trình hạ tầng kĩ thuật. Cấp công trình: Cấp IV.\n- Diện tích xây dựng: 10m x 7m = 70 m²\n- Tổng diện tích sàn xây dựng: 70 m²\nTrang 10/44",
+      "page_11": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n- Chiều cao công trình: 4,6 m tính từ cao độ nền đường đặt công trình\n- Số tầng: 01 tầng\n- Thông tin kết cấu: Móng cọc BTCT, nền BTCT, cột thép, tường lưới thép, không mái.\n8. Nhà điều hành và trạm xử lý nước thải:\n- Loại công trình: Công trình hạ tầng kĩ thuật. Cấp công trình: Cấp IV\n- Bao gồm: nhà điều hành và bể xử lý nước thải ngầm\n- Nhà điều hành: DT 8,0 m x 5,6 m = 44,80 m², chiều cao công trình 6,55m tính từ cao độ\nnền đường đặt công trình, 01 tầng\n- Trạm xử lý nước thải ngầm : DT 8,0 m x 15,0 m = 120,00 m², chiều sâu 2,65m tính từ\ncao độ nền đường đặt công trình\n- Tổng diện tích sàn xây dựng: 164,80 m²\n- Thông tin kết cấu: Móng cọc BTCT; nền BTCT, cột thép, khung kèo thép, mái lợp tôn;\nBTCT toàn khối cho bể nước ngầm.\n9. Phòng bơm chữa cháy:\n- Loại công trình: Công trình hạ tầng kĩ thuật. Cấp công trình: Cấp IV\n- Phòng bơm chữa cháy: DT 6,0 m x 6,5 m = 39,00 m², chiều cao công trình 5,55m tính từ cao\nđộ nền đường đặt công trình, 01 tầng.\n- Tổng diện tích sàn xây dựng: 39,00 m²\n- Thông tin kết cấu: Móng đơn BTCT; nền BTCT, cột thép, khung kèo thép, mái lợp tôn.\n10. Bể nước chữa cháy\n- Loại công trình: Công trình hạ tầng kĩ thuật. Cấp công trình: Cấp IV\n- Bể nước chữa cháy : DT 17,0 m x 10,0 m = 170,00 m², chiều cao công trình 3,75m tính\ntừ cao độ nền đường đặt công trình, 01 tầng.\n- Tổng diện tích sàn xây dựng: 170,00 m²\n- Thông tin kết cấu: Móng cọc BTCT, BTCT toàn khối cho bể nước chữa cháy.\n11. Sân đường bê tông:\n- Diện tích xây dựng khoảng 8.041,37 m², sân đường bằng bê tông cốt thép, dày 200mm;\nlớp đá 40x60 dày 200mm, lu lèn đạt k=0.98. Lớp đất san nền lu lèn theo từng lớp đạt\nk=0,95.\n12. Các hạng mục phụ trợ khác:\n- Canopy nhà xưởng\n- Bãi xe hơi không mái: DT: 100,00 m².\n- Máy phát điện: DT: 7,77m².\nTrang 11/44",
+      "page_12": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n- Cổng bằng hệ khung thép mạ kẽm phủ sơn dầu.\n- Tường rào thoáng xây mới dài khoảng 245,5 m Móng, khung cột, giằng bằng BTCT đỗ\ntại chỗ; cột BTCT, khung rào bằng tổ hợp thép hình và lưới thép mạ kẽm sơn dầu.\n- Tường rào xây kín xây mới dài khoảng 357,5 m; Móng, khung cột, giằng bằng BTCT đỗ\ntại chỗ; cột BTCT, toàn bộ tường xây gạch không nung, có trát vữa.\n13. Cây xanh thảm cỏ:\n- Thảm cỏ trồng mới có diện tích khoảng 3.916,02 m2, trồng mới cỏ nhung và cỏ gừng.\nTrang 12/44",
+      "page_13": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nPHẦN II. KẾT CẤU\nII.1. GIẢI PHÁP THIẾT KẾ CÁC HẠNG MỤC:\nNhà máy – văn phòng:\n- Nhà máy: kết cấu móng, sàn tầng 1 & tầng 2, cột & dầm là bê tông cốt thép đổ toàn khối. Kèo\nthép, vách tôn và mái tôn.\nNhà bảo vệ, Trạm khí gas, Phòng bơm, Phòng bơm chữa cháy, Bể nước chữa cháy, Trạm xử\nlý nước thải & nhà điều hành, Nhà rác:\n- Kết cấu móng, sàn, vách, cột là bê tông cốt thép đổ toàn khối. Kèo thép và mái tôn.\nCác kết cấu Hạng mục phụ trợ khác: Nhà để xe máy có mái, Hàng rào, Cột Cờ,..:\n- Hạng mục phụ trợ khác: móng cột là bê tông cốt thép đổ toàn khối. Kèo thép và mái tôn.\n- Kết cấu nhà xe: móng, cổ cột là bê tông cốt thép đổ toàn khối. Cột, kèo thép và mái tôn.\nII.2. GIẢI PHÁP KẾT CẤU CHỊU LỰC CHÍNH:\nGiải pháp kết cấu móng Nhà máy- văn phòng, Nhà bảo vệ, Trạm khí gas, Phòng bơm, Phòng\nbơm chữa cháy, Bể nước chữa cháy, Trạm xử lý nước thải & nhà điều hành , Nhà rác.\nCăn cứ vào khảo sát địa chất công trình Dự án Megmilk Snow Brand Việt Nam, đơn vị tư vấn\nthiết kế chúng tôi nhận thấy địa chất khu vực tương đối phức tạp. Lớp đất nền là sét mềm, yếu\ntrong phạm vi chiều sâu khoảng 15m tính từ đáy lớp đất san lấp; Kết hợp với tải trọng của công\ntrình, chúng tôi lựa chọn giải pháp móng cọc ly tâm ứng suất trước có đường kính D350, D400 cho\ntoàn bộ kết cấu móng của nhà máy sản xuất chính và một số các hạng mục phụ trợ quan trọng. Mũi\ncọc bê tông cốt thép đặt tựa vào lớp đất cát, trạng thái chặt vừa đến chặt, có số SPT trung bình\n20~30.\nNhà bảo vệ, Trạm khí gas, Phòng bơm, Phòng bơm chữa cháy, Nhà rác dùng kết cấu móng đơn\nđặt trên cừ tràm gia cố nền.\nGiải pháp kết cấu móng nhà phụ trợ khác: Nhà để xe máy có mái, Hàng rào, Cột Cờ…\nVì tải trọng các hạng mục là nhỏ và đây là các hạng mục phụ, chúng tôi lựa chọn giải pháp móng\nđơn đặt trên cừ tràm gia cố nền.\nTrang 13/44",
+      "page_14": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nII.3. VẬT LIỆU:\nBê tông:\n- Nhà máy – văn phòng:\nBê tông B22.5 (M300): R =13Mpa, R = 0.975 Mpa\no b bt\n- Bể nước chữa cháy, Bể xử lý nước thải:\nBê tông B22.5 (M300): R =13Mpa, R = 0.975 Mpa\no b bt\n- Nhà bảo vệ, Trạm khí gas, Phòng bơm, Phòng bơm chữa cháy, Nhà rác và các kết cấu của hạng\nmục phụ trợ khác:\nBê tông B20 (M250): R =11.5Mpa, R = 0.9 Mpa\no b bt\nThép tròn:\nGiới hạn Cường độ Cường độ Cường độ\nĐường kính Mác thép chảy chịu kéo chịu nén chịu cắt\nD (mm) fy (Mpa) Rs (Mpa) Rsc (Mpa) Rsw (Mpa)\nD < 10 CB240-T 240 210 210 170\n10 ≤ D <16 CB400-V 400 350 350 280\nD ≥ 16 CB500-V 500 435 435 300\n- Tất cả thép sàn tầng 1FL dùng mác CB500-V\nKết cấu thép:\n- Thép tổ hợp: Sử dụng thép A572 (fy ≥ 345 Mpa) hoặc tương đương.\n- Thép hình: Sử dụng thép ASTM A36 (fy ≥ 245 Mpa) hoặc tương đương.\nII.4. TẢI TRỌNG:\nII.4.1. Tải trọng bản thân\n- Khối lượng riêng bê tông nặng: 2500 kG/m3, hệ số tin cậy n = 1.1;\n- Trọng lượng thép kết cấu: 7850 kG/m3, hệ số tin cậy n = 1.05;\n- Trọng lượng đất đắp: 1800 kG/m3, hệ số tin cậy n = 1.15;\n- Trọng lượng của nước: 1000 kG/m3, hệ số tin cậy n = 1.0;\nTrang 14/44",
+      "page_15": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nII.4.2. Tĩnh tải các lớp cấu tạo sàn và tường\n- Chiều dày của các lớp cấu tạo sàn căn cứ vào bản vẽ kiến trúc; hệ thống kỹ thuật M&E; hệ số\ntin cậy căn cứ theo TCVN 2737 – 2023. Tùy thuộc vào công năng sử dụng của từng ô sàn, tĩnh\ntải sàn được chia làm các nhóm tải trọng như sau:\na) Mái nhà máy\nCác lớp Chiều dày Trọng lượng Tiêu chuẩn Hệ số Tính toán\ncấu tạo sàn (cm) riêng γ (KN/m3) (KN/m2) n (KN/m2)\nTole + xà gồ - - 0.15 1.1 0.17\nHệ thống kỹ thuật - - 0.2~0.3 1.2 0.24~0.36\nCelling - - 0.1~0.2 1.2 0.12~0.24\nTổng tĩnh tải mái 0.45~0.65 1.2 0.53~0.77\nGiá trị thiết kế chọn 0.45~0.65 1.2 0.53~0.77\nb) Mái canopy\nCác lớp Chiều dày Trọng lượng Tiêu chuẩn Hệ số Tính toán\ncấu tạo sàn (cm) riêng γ (KN/m3) (KN/m2) n (KN/m2)\nTole + xà gồ - - 0.15 1.1 0.17\nHệ thống kỹ thuật - - 0.05 1.2 0.06\nCelling - - - 1.2 -\nTổng tĩnh tải mái 0.2 1.2 0.23\nGiá trị thiết kế chọn 0.2 1.2 0.23\nc) Sàn văn phòng\nCác lớp Chiều dày Trọng lượng Tiêu chuẩn Hệ số Tính toán\ncấu tạo sàn (cm) riêng γ (KN/m3) (KN/m2) n (KN/m2)\nLớp gạch lát nền 1.0 22 22 1.2 0.264\nLớp vữa lót gạch 2.0 18 36 1.3 0.468\nTổng tĩnh tải sàn 58 0.732\nGiá trị thiết kế chọn 1 1.2 1.2\nTrang 15/44",
+      "page_16": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nd) Tường gạch block 110 mm, tường gạch ống dày 100 mm & 200 mm\nTường gạch block Tiêu chuẩn Chiều cao Chiều cao Chiều cao Hệ số Tính toán\n& gạch ống (KN/m2) tầng (m) dầm (m) tường (m) n (KN/m2)\nTường gạch block dày 110 2.1 H h = (H-h ) 1.2 = 2.52x(H-h )\nt d t d t d\nTường gạch ống dày 100 1.8 H h = (H-h ) 1.2 = 2.16x(H-h )\nt d t d t d\nTường gạch ống dày 200 3.3 H h = (H-h ) 1.2 = 3.96x(H-h )\nt d t d t d\nTường xây trực tiếp trên sàn gán lên dầm ảo không tiết diện hoặc qui về tải phân bố đều theo công\nthức như sau:\n𝑳𝑳𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕×𝒉𝒉𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕×𝟐𝟐.𝒕𝒕+𝑳𝑳𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕×𝒉𝒉𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕×𝒕𝒕.𝟖𝟖+𝑳𝑳𝒕𝒕𝟐𝟐𝒕𝒕𝒕𝒕×𝒉𝒉𝒕𝒕𝟐𝟐𝒕𝒕𝒕𝒕×𝟑𝟑.𝟑𝟑\n𝒈𝒈𝒕𝒕𝒕𝒕 =\n𝑺𝑺sàn\n𝑳𝑳𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕×𝒉𝒉𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕×𝟐𝟐.𝒕𝒕+𝑳𝑳𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕×𝒉𝒉𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕𝒕×𝒕𝒕.𝟖𝟖+𝑳𝑳𝒕𝒕𝟐𝟐𝒕𝒕𝒕𝒕×𝒉𝒉𝒕𝒕𝟐𝟐𝒕𝒕𝒕𝒕×𝟑𝟑.𝟑𝟑\n𝒈𝒈𝒕𝒕𝒕𝒕 = 𝒕𝒕.𝟐𝟐×\nTrong đó: L – tổng chiều dài của mỗi loại tườ𝑺𝑺n s g àn\nt\nh = H – H : chiều cao tường đã trừ đi chiều dày sàn\nt tầng sàn\nS – diện tích ô sàn có tường xây\nsàn\nII.4.3. Hoạt tải\nHoạt tải tác dụng lên sàn phụ thuộc vào công năng sử dụng, căn cứ theo tiêu chuẩn TCVN\n2737 – 2023 như sau:\nHoạt tải tiêu Hệ số Hoạt tải tính toán\nSTT Công năng sử dụng\nchuẩn (KN/m2) n (KN/m2)\n30.0 39.0\n1 Khu vực sản xuất và nhà kho 20.0 1.3 26.0\n15.0 19.5\n2 Phòng nấu tầng 2FL+1m 20.0 1.3 26.0\nPhòng thực hành, phòng kỹ thuật,\n3 10.0 1.3 13.0\nphòng điện, phòng đun hơi, AHU\n4 Nhà văn phòng, phòng họp, căn tin 3.0 1.3 3.9\n5 Sàn cầu thang, hành lang, WC 3.0 1.3 3.9\n6 Mái tole, mái canopy 0.3 1.3 0.39\nTrang 16/44",
+      "page_17": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nII.4.4. Hệ số tầm quan trọng công trình\n- Theo TCVN 2737-2023, hệ số tầm quan trọng công trình được xác định như sau:\nCấp hậu quả của Mức độ quan trọng\nGiá trị Ɣ\nn\ncông trình của công trình\nC1 Thấp 0.87\nC2 Trung bình 1.00\nC3 Cao 1.15\nCHÚ THÍCH: Đối với nhà cao trên 250m và mái nhịp lớn (không có trụ\ntrung gian) với nhịp lớn hơn 120m thì hệ số Ɣ lấy không nhỏ hơn 1.2\nn\nDự án Megmilk Snow Brand Việt Nam thuộc công trình có cấp hậu quả công tình cấp 2 và mức\nđộ quan trọng công trình là trung bình. Vì vậy giá trị hệ số tầm quan trọng được lấy là 1.00\nII.4.5. Tải trọng ngang do gió\n- Theo TCVN 2737-2023, tải trọng gió tác dụng lên công trình được xác định như sau:\ntrong đó: 𝑊𝑊𝑘𝑘 = 𝑊𝑊3𝑠𝑠,10.𝑘𝑘(𝑧𝑧𝑒𝑒).𝑐𝑐.𝐺𝐺𝑓𝑓\n: áp lực gió 3s ứng với chu kỳ lặp 10 năm:\n𝑊𝑊3𝑠𝑠 : ,1 á 0 p lực gió cơ sở được lấy theo phân vùng 𝑊𝑊3𝑠𝑠,10 = 0.852 ×𝑊𝑊0\n𝑊𝑊0\n: hệ số tính đến sự thay đổi của áp lực gió theo độ cao\n𝑘𝑘:( 𝑧𝑧h 𝑒𝑒 ệ) số khí động\n𝑐𝑐 : hệ số hiệu ứng giật\n• Xác 𝐺𝐺 đ 𝑓𝑓 ịnh :\n- Theo TCV 𝑊𝑊 N 0 2737-2023, công trình xây dựng tại huyện Bến Lức, tỉnh Long An thuộc vùng\náp lực gió II, giá trị được xác định theo bảng 5.1 trong QCVN 02-2022, W = 95 daN/m2.\n0\n• Xác định hệ số\n𝑊𝑊0\n:\n- Khu vực xây dựn 𝑘𝑘 g ( 𝑧𝑧 c 𝑒𝑒 ô ) ng trình thuộc địa hình dạng B. Hệ số thay đổi theo chiều cao k được tra\ntheo bảng 9 (TCVN 2737-2023).\nTrang 17/44",
+      "page_18": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n• Xác định hệ số khí động :\n- Theo TCVN 2737-2023, h 𝑐𝑐 ệ số khí động được xác định theo hình dạng của tòa nhà được\nquy định trong phụ lục F.\n𝑐𝑐\n• Xác định hệ số hiêu ứng giật :\n𝐺𝐺𝑓𝑓\n- Theo TCVN 2737-2023, hệ số hiệu ứng giật được xác định theo mục 10.2.7.\nII.4.6. Tải trọng ngang do động đất\n𝐺𝐺𝑓𝑓\n- Phổ thiết kế: Phổ thiết kế được tính toán theo tiêu chuẩn TCVN 9386:2012:\n- Theo TCVN 9386:2012, chia động đất thành ba cấp tùy thuộc vào gia tốc nền thiết kế\nnhư sau: 𝑎𝑎𝑔𝑔 =\n• 𝑎𝑎 𝑔𝑔𝑔𝑔Đ𝛾𝛾𝐼𝐼ộng đất mạnh:\n𝑠𝑠\n• Động đất yếu: 𝑎𝑎𝑔𝑔 ≥ 0.08𝑔𝑔(0.785𝑚𝑚/𝑠𝑠 )\n2 2\n• Động đất rất yếu: 0.04𝑔𝑔(0.392𝑚𝑚/𝑠𝑠 ) ≤ 𝑎𝑎𝑔𝑔 ≤ 0.08𝑔𝑔(0.785𝑚𝑚/𝑠𝑠 )\n2\n𝑎𝑎𝑔𝑔 ≤ 0.04𝑔𝑔(0.392𝑚𝑚/𝑠𝑠 )\n- Như vậy động đất tại khu vực huyện Bến Lức, tỉnh Long An a\ng\n= 0.04 là vùng có động đất\nyếu nên không cần phải thiết kế kháng chấn cho công trình.\nTrang 18/44",
+      "page_19": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nII.5. CÁC TIÊU CHUẨN ĐƯỢC ÁP DỤNG:\n1. TCVN 2737 – 2023: Tiêu chuẩn Tải trọng và tác động.\n2. TCVN 5574 – 2018: Tiêu chuẩn thiết kế kết cấu BTCT.\n3. TCVN 10304 – 2014: Tiêu chuẩn thiết kế móng cọc.\n4. QCVN 02 : 2022: Quy chuẩn kỹ thuật quốc gia về số liệu điều kiện tự nhiên dùng trong xây\ndựng\n5. TCVN 7888 : 2014: Cọc bê tông ly tâm ứng lực trước\n6. TCVN 9393 : 2012: Cọc – Phương pháp thử nghiệm hiện trường bảng tải trọng tĩnh ép dọc trục\n7. TCVN 9362 – 2012: Thiết kế Nền nhà và Công trình.\n8. TCVN 5575 – 2024: Kết cấu thép – Tiêu chuẩn thiết kế.\n9. TCVN 9386:2012: Thiết kế công trình chịu động đất.\n10. Các tài liệu quy chuẩn, tiêu chuẩn khác hiện hành của Việt Nam.\n11. ASCE 7-10: tải trọng thiết kế cho nhà và kết cấu khác\n12. IBC -2018: tiêu chuẩn quốc tế về công trình\n13. AISC 360-10: chỉ dẫn kỹ thuật cho công trình bằng kết cấu thép\n14. AISI 2007: chỉ dẫn kỹ thuật cho thiết kế kết cấu thép dập nguội\n15. AWS D1.1-2015: tiêu chuẩn hàn kết cấu thép\nII.6. PHẦN MỀM TÍNH TOÁN NỘI LỰC:\n- Để tính toán nội lực trong khung, sử dụng phần mềm ETABS 9.7.4 của hãng Berkeley,\nCalifornia, USA.\n- File excel tính toán các cấu kiện lập sẵn theo các tiêu chuẩn Việt Nam hiện hành.\nTrang 19/44",
+      "page_20": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nPHẦN III. HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ\nIII.1. CƠ SỞ THIẾT KẾ\nCác tiêu chuẩn quy phạm:\n• TCVN 4088:1997 – Số liệu khí hậu dùng trong xây dựng.\n• TCVN 56872024 – Thông gió, điều tiết không khí, sưởi ấm. Tiêu chuẩn thiết kế.\n• QCVN 02:2022/BXD – Quy chuẩn kỹ thuật quốc gia số liệu điều kiện tự nhiên dùng trong xây\ndựng.\n• TCXD 232:1999 – Hệ thống thông gió, điều hoà không khí và cấp lạnh. Chế tạo, lắp đặt và\nnghiệm thu.\n• Sửa đổi 1:2023 QCVN 06:2022/BXD – Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và\ncông trình.\n• Hướng dẫn thiết kế hệ thống điều hoà không khí. ASHARE\n• SMACNA (Sheet Metal and Air Conditioning Contractors National Association Inc)\nCác tiêu chuẩn về an toàn phòng cháy:\n• NFPA (National Fire Protection Association Standard).\n• Tiêu chuẩn Việt Nam về an toàn phòng cháy.\nTài liệu kỹ thuật khác:\n• Các tài liệu viết về lý thuyết điều hoà không khí và thông gió của hãng YORK, TRANE,\nCARRIER, MITSUBISHI, DAIKIN.\n• Điều hoà không khí – GS.TS. Trần Ngọc Chấn.\n• Kỹ thuật thông gió – GS.TS. Trần Ngọc Chấn.\nIII.2. PHẠM VI CÔNG VIỆC\nThiết kế hệ thống thông gió điều hoà không khí trong nhà cho công trình bao gồm:\n• Hệ thống thông gió cho nhà máy, khu văn phòng, khu vệ sinh và khu phụ trợ.\n• Hệ thống điều hoà không khí cho nhà máy và khu văn phòng.\nIII.3. HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ\na. Hệ thống thông gió.\n• Thông gió cho khu nhà máy:\nVới nhà máy bố trí cấp gió tươi được xử lý bằng lọc G4 trước khi thổi vào trong nhà máy, gió từ các\nphòng bán sạch sẽ tràn qua các phòng thường qua các miệng gió gắn cửa và các van gió xả áp (Relief\ndamper).\nTrang 20/44",
+      "page_21": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n• Thông gió cho khu vực phụ trợ:\nVới các phòng bơm, phòng điện, phòng máy nén, phòng lò hơi, bố trí các cửa cấp không khí vào trên\ntường lấy không khí bên ngoài. Bố trí các quạt hút công nghiệp gắn tường, quạt hướng trục hút khí\nthải ra bên ngoài phòng.\n• Thông gió cho khu văn phòng:\nVới các phòng như phòng họp, sảnh chờ, văn phòng…, bố trí quạt cấp khí tươi từ ngoài trời vào, khí\nthải được thoát ra hành lang qua các khe cửa. Các phòng vệ sinh, phòng thay đồ được bố trí quạt nối\nống gió hút khí thải ra ngoài. Phòng Server, phòng pantry, được bố trí quạt hút âm trần thải không khí\nra ngoài. Lắp cửa cấp không khí vào trên tường để cấp khí vào các phòng.\n• Thông gió khu ngoài nhà:\nPhòng bảo vệ bố trí quạt hút gắn tường để hút khí thải và lắp cửa cấp không khí vào trên cửa\nđể lấy không khí ngoài.\n• Thông gió khu vệ sinh:\nNhằm hạn chế sự ô nhiễm không khí trong công trình, tại các khu WC bố trí hệ thống quạt thông gió\nhút cục bộ cho từng khu. Khí thải sẽ được quạt hút thải không khí bẩn ra ngoài. Bội số trao đổi không\nkhí 10 lần/h.\n* Bảng tính toán chọn quạt thông gió\nSTT Tên phòng Điều kiện phòng Điều kiện thiế Chọn quạt thông gió\nt kế\nThể t 30 Tần Công Lưu SL Loại quạt OA EA\ních suất\nAf/N số. lượng\nquạt. khí\nm3 SL ACH CMH CMH\nVĂN PHÒNG 1 FL\n1 Hành lang 180 1 1.0 180 200 1 Quạt hướng trục SF DG\nNướng cửa (DG)\n2 Phòng họp (VIP) 75 8 1.0 240 250 1 Bộ trao đổi nhiệt HE DG\n(HE)\n3 NHÀ VỆ SINH NAM 1 22 10.0 218 250 1 Quạt hướng trục DG EF\n-2\n4 WC (F) 1-2 28 10.0 284 300 1 Quạt hướng trục DG EF\n5 Phòng thay đồ cho khác 30 5.0 150 150 1 Quạt trần DG EF\nh\n6 Phòng đựng thức ăn 1 14 10.0 137 150 1 Quạt trần DG EF\nTrang 21/44",
+      "page_22": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n7 Phòng thí nghiệm 276 5 1.0 276 300 1 Quạt hướng trục SF EF\n(SF)\nQuạt trần (EF)\n8 Phòng thí nghiệm (mui 1,426 1000 1 Quạt hướng trục SF EF\nxe)\n9 Phòng vi khuẩn 40 1 1.0 40 100 1 Quạt hướng trục SF EF\n(SF)\nQuạt trần (EF)\n10 Văn phòng sản xuất 274 8 1.0 275 300 1 Bộ trao đổi nhiệt HE Ống d\nẫn\n11 Khu vực thay giày 137 5.0 686 700 1 Quạt hướng trục LV EF\n12 NHÀ VỆ SINH NAM 1 47 10.0 465 500 1 Quạt hướng trục DG EF\n-1\n13 WC (F) 1-1 42 10.0 415 450 1 Quạt hướng trục DG EF\n14 Phòng giặt 32 15.0 482 500 1 Quạt trần DG EF\n15 Lối vào nhân viên 97 5.0 487 500 1 Quạt trần DG EF\n16 Phòng thay đồ (M) 137 20 1.0 600 600 1 Quạt hướng trục SF EF\n17 Phòng thay đồ (F) 132 20 1.0 600 600 1 Quạt hướng trục SF EF\n18 Văn phòng kỹ thuật 108 8 1.0 240 250 1 Bộ trao đổi nhiệt HE DG\n19 Kho phụ tùng 54 3.0 162 200 1 Quạt trần DG EF\n20 Xưởng 122 5 1.0 150 150 1 Quạt hướng trục SF DG\n21 Lưu trữ 1 83 2 3.0 248 250 1 Quạt trần DG EF\n22 Phòng điện 401 1.0 401 400 1 Quạt hướng trục Ống SF\ndẫn\n23 Phòng nồi hơi 122 50.0 6,075 9,800 2 Quạt treo tường SF EF\n(SF)\nQuạt hướng trục\n(EF)\n24 Hành lang 1-1 393 14 1.0 420 450 1 DG DG\nVĂN PHÒNG 2 FL\n25 Phòng họp 1 111 12 1.0 360 400 1 Bộ trao đổi nhiệt HE Ống d\nẫn\nTrang 22/44",
+      "page_23": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n26 Phòng họp 2 66 8 1.0 240 250 1 Bộ trao đổi nhiệt HE Ống d\nẫn\n27 Phòng họp 3 75 1 1.0 75 100 1 Bộ trao đổi nhiệt HE Ống d\nẫn\n28 Chức 576 14 1.0 576 600 1 Bộ trao đổi nhiệt HE Ống d\nẫn\n29 Phòng máy chủ 48 1.0 48 100 1 Quạt trần DG EF\n30 Phòng đựng thức ăn 2 21 10.0 213 250 1 Quạt trần DG EF\n31 NHÀ VỆ SINH NAM 2 40 10.0 400 400 1 Quạt hướng trục DG EF\n-2\n32 WC (F) 2-2 40 10.0 400 400 1 Quạt hướng trục DG EF\n33 Lưu trữ 3 53 2 3.0 159 150 1 Quạt trần DG EF\n34 Bếp thử nghiệm 349 2 1.0 350 350 1 Quạt hướng trục DG EF\n35 Nhà bếp thử nghiệm (m 2,074 2,100 1 Quạt hướng trục SF EF\náy hút mùi)\n36 Lưu trữ 2 63 2 3.0 189 200 1 Quạt trần DG EF\n37 Hội trường + khu vực vi 264 9 1.0 270 300 1 DG DG\new\n38 NHÀ VỆ SINH NAM 2 39 10.0 387 400 1 Quạt hướng trục DG EF\n-1\n39 WC (F) 2-1 39 10.0 387 400 1 Quạt hướng trục DG EF\n40 Phòng cầu nguyện 29 2 1.0 60 100 1 Quạt trần DG EF\n41 Phòng tiếp khách (M) 125 9 1.0 270 300 1 Quạt hướng trục SF Ống\ndẫn\n42 Phòng chờ (F) + Phòng 125 9 1.0 270 300 1 Quạt hướng trục SF Ống\ncho con bú\ndẫn\n43 Căng tin 432 80 1.0 1,300 1,300 1 Quạt hướng trục SF EF\n44 Căng tin ( hood) 1,037 1,100 1 Quạt hướng trục EF\n45 Hành lang 2-2 180 6 1.0 180 200 1 DG DG\nKhu vực nhà máy\nNHÀ MÁY 1 FL\nTrang 23/44",
+      "page_24": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n46 Kho vật liệu 1,48 2 1.0 1,485 1,500 1 Quạt hướng trục SF EAG\n5\n47 Phòng chuẩn bị 1 95 10 1.0 300 300 1 Quạt hướng trục RD EF\n48 Phòng đóng gói 1 1,27 5 1.0 1,273 1,900 1 Quạt hướng trục SF RD\n2\n49 Phòng chuẩn bị 2 64 10 1.0 300 300 1 Quạt hướng trục RD EF\n50 Phòng tài xế 17 2 5.0 86 100 1 Quạt hướng trục DG EF\n51 Văn phòng hậu cần 16 2 1.0 60 100 1 Quạt hướng trục SF DG\n52 Nhà vệ sinh nam 1-3 9 10.0 90 100 1 Quạt hướng trục DG EF\n53 WC (F) 1-3 11 10.0 105 100 1 Quạt hướng trục DG EF\nNHÀ MÁY 2 FL\n54 Phòng nấu ăn 1 770 5 1.0 770 900 1 Quạt hướng trục AHU EF\n55 Phòng nấu ăn 1 4,900 4,900 1 Quạt Sirocco (với SF EF\nHEPA)\n(máy hút mùi)\n56 Phòng nấu ăn 2 4,900 4,900 2 Quạt Sirocco (với SF EF\nHEPA)\n(máy hút mùi-tương lai)\n2 TẦNG + 4500\n57 Ahu & máy nén 324 5.0 1,620 3,100 1 Quạt treo tường LV EF\nNGOÀI\n58 Nhà bảo vệ 1 25 2 1.0 60 100 1 Quạt trần DG EF\n59 WC - GH 1 15 10.0 150 150 1 Quạt trần DG EF\n60 Phòng bơm (FF) 116 5.0 578 600 1 Quạt treo tường DG EF\n61 Phòng bơm 126 5.0 630 650 1 Quạt treo tường DG EF\n(Hệ thống ống nước)\nB. Hệ thống điều hòa không khí.\n• Thông số không khí bên ngoài nhà:\nNhiệt độ Độ ẩm tương đối Enthanpy\n(0C) (%) (kcal/kg)\nMùa Hè 35.7 57.7 21,71\nTrang 24/44",
+      "page_25": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nMùa Đông 10,6 85,5 6,63\n• Thông số không khí bên trong nhà:\nKhu Vực Mùa Hè Mùa Đông\nĐộ ẩm tương Độ ẩm\nNhiệt độ Enthanpy Nhiệt độ Enthanpy\nđối tương đối\n(0C) (kcal/kg) (0C) (kcal/kg)\n(%) (%)\nVăn\n26±3 NA 12.63 26±3 NA 12.63\nPhòng\nBelow\nNA 12.63 Below 26 NA 12.63\n26\nNhà máy\nBelow\nNA 11.42 Below 24 NA 11.42\n24\n• Lựa chọn hệ thống:\nĐối với khu vực văn phòng:\n- Sử dụng điều hòa VRV với dàn lạnh là loại cassette âm trần, giấu trần nối ống gió, treo tường, đặt sàn\n(cho phòng điện).\n- Các dàn nóng VRV được đặt ngoài nhà cấp đến các dàn lạnh.\n- Nối giữa dàn nóng và dàn lạnh bằng đường ống đồng (ống dẫn lỏng và dẫn hơi môi chất). Đường ống\nđược bọc cách nhiệt đi trong trần nhà.\n- Nước ngưng tụ tại các dàn lạnh được dẫn vào hệ thống ống thoát nước ngưng bằng ống nhựa uPVC\nbọc bảo ôn, thoát ra ống thoát nước mưa gần nhất.\nĐối với khu vực ngoài nhà:\nSử dụng điều hòa loại treo tường – một chiều lạnh cho phòng bảo vệ.\nĐối với khu vực nhà máy:\n- Sử dụng máy xử lý không khí AHU (có xử lý gió tươi), sau đó gió được cấp tới bên trong nhà máy.\n- Sử dụng điều hòa VRV với dàn lạnh là loại đặt sàn thổi trực tiếp - một chiều lạnh.\n- Các dàn nóng được đặt ngoài nhà cấp đến các dàn lạnh.\n- Nối giữa dàn nóng và dàn lạnh bằng đường ống đồng (ống dẫn lỏng và dẫn hơi môi chất). Đường ống\nđược bọc cách nhiệt đi trong trần nhà.\n- Nước ngưng tụ tại các dàn lạnh được dẫn vào hệ thống ống thoát nước ngưng bằng ống nhựa uPVC\nbọc bảo ôn, thoát ra ống thoát nước mưa gần nhất.\n* Bảng tính toán chọn Điều hòa không khí\nTrang 25/44",
+      "page_26": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nSTT Tên phòng Phòng Thiết kế Lựa chọn\nĐiều kiện Điều kiện\nThể tích Nhiệt đ Độ ẩ Công suất Công s Câu Loại AC\nộ m lạnh. uất lạn hỏi\nh\nm3 Oc % Kw Kw\nKhu vực văn phòng\nVĂN PHÒNG 1 FL\n1 Hành lang 180 26 ±3 - 9.8 14.0 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n2 Phòng họp (VIP) 75 26 ±3 - 7.0 7.1 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n3 Phòng thí nghiệm 276 26 ±3 - 15.5 9.0 2 VRV – Băng âm trần\nLoại - Chỉ làm mát\n4 Phòng vi khuẩn 40 26 ±3 - 2.9 3.6 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n5 Văn phòng sản xuất 274 26 ±3 - 14.7 9.0 2 VRV – Băng âm trần\nLoại - Chỉ làm mát\n6 Phòng thay đồ (M) 137 26 ±3 - 16.0 14.0 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n7 Phòng thay đồ (F) 132 26 ±3 - 15.1 14.0 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n8 Văn phòng kỹ thuật 108 26 ±3 - 9.0 9.0 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n9 Xưởng 122 26 ±3 - 6.9 7.1 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n10 Lưu trữ 1 83 26 ±3 - 7.1 7.1 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n11 Phòng điện 401 26 ±3 - 21.8 10.0 2 PAC - Loại đặt sàn - Chỉ là\nm mát\nTrang 26/44",
+      "page_27": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n12 Hành lang 1-1 393 26 ±3 - 17.9 7.1 3 VRV – Băng âm trần\nLoại - Chỉ làm mát\n13 Lối vào nhân viên 97 26 ±3 - 11.2 11.2 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\nVĂN PHÒNG 2 FL\n14 Phòng họp 1 111 26 ±3 - 10.2 11.2 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n15 Phòng họp 2 66 26 ±3 - 6.4 7.1 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n16 Phòng họp 3 75 26 ±3 - 4.6 5.6 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n17 Chức 576 26 ±3 - 34.8 9.0 4 VRV – Băng âm trần\nLoại - Chỉ làm mát\n18 Phòng máy chủ 48 26 ±3 - 5.4 5.2 2 PAC - Loại treo tường - C\nhỉ làm mát\n19 Lưu trữ 3 53 26 ±3 - 4.4 4.5 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n20 Nhà bếp thử nghiệm 349 26 ±3 - 16.1 7.1 3 VRV – Băng âm trần\nLoại - Chỉ làm mát\n21 Lưu trữ 2 63 26 ±3 - 5.4 5.6 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n22 Hội trường + Khu vự 264 26 ±3 - 15.3 5.6 3 VRV – Băng âm trần\nc xem\nLoại - Chỉ làm mát\n23 Phòng chờ (M) 125 26 ±3 - 9.9 11.2 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n24 Phòng chờ (F) 125 26 ±3 - 9.9 11.2 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n25 Căng tin 432 26 ±3 - 55.3 14.0 4 VRV – Băng âm trần\nLoại - Chỉ làm mát\nTrang 27/44",
+      "page_28": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n26 Hành lang 2-1 180 26 ±3 - 10.4 11.2 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\nKhu vực nhà máy\nNHÀ MÁY 1 FL\n27 Phòng chuẩn bị 1 95 26 ±3 - 7.7 7.1 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n28 Kho vật liệu 1,485 24 ±3 - 48.7 28.0 2 VRV – Đứng trên sàn\nLoại - Chỉ làm mát\n29 Phòng chiết rót & 714 24 ±3 - 45.0 45.0 1 VRV – AHU – Làm mát\nPhòng trọng lượng chỉ\n30 Phòng đóng gói 1 1,272 24 ±3 - 45.0 22.4 2 VRV – Đứng trên sàn\nLoại - Chỉ làm mát\n31 Phòng đóng gói 1 (T 576 24 ±3 - 20.2 22.4 1 VRV – Đứng trên sàn\nương lai)\nLoại - Chỉ làm mát\n32 Kho bao bì 237 26 ±3 - 8.5 9.0 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n33 Con đường 116 26 ±3 - 6.5 7.1 1 VRV – Băng âm trần\nLoại - Chỉ làm mát\n34 Văn phòng Logistics 16 26 ±3 - 2.2 2.8 1 VRV – Băng âm trần\nLoại (1Flow) –Chỉ làm mát\nNHÀ MÁY 2 FL\n35 Phòng nấu ăn 1 770 24 ±3 - 56.8 61.5 1 VRV – AHU – Làm mát\nchỉ\n36 Phòng nấu ăn 2 (Tươ 567 24 ±3 - 28.9 33.5 1 VRV – AHU – Làm mát\nng lai)\nchỉ\nBÊN NGOÀI\n37 Nhà bảo vệ 1 25 26 ±3 - 3.6 2.8 1 PAC - Loại treo tường –\nChỉ làm mát\nTrang 28/44",
+      "page_29": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nPHẦN IV. HỆ THỐNG CẤP THOÁT NƯỚC\nIV.1. CƠ SỞ THIẾT KẾ\nCác tiêu chuẩn quy phạm:\n• TCVN 4513-1988: Tiêu chuẩn thiết kế cấp nước bên trong nhà\n• TCXD 33-2006: Cấp nước. Mạng lưới bên ngoài và công trình. Tiêu chuẩn thiết kế\n• TCVN 5673:2012: Hệ thống tài liệu thiết kế xây dựng cấp thoát nước bên trong nhà, hồ sơ bản\nvẽ thi công.\n• TCVN 3989:2012 Hệ thống tài liệu thiết kế xây dựng – Cấp thoát nước – Mạng lưới bên ngoài\n– bản vẽ thi công.\n• TCVN 4474-1987: Thoát nước bên trong. Tiêu chuẩn thiết kế.\n• TCVN 5673-1992: Hệ thống tài liệu thiết kế xây dựng - cấp thoát nước bên trong\n• TCXD 51-2008: Thoát nước. Mạng lưới bên ngoài và công trình. Tiêu chuẩn thiết kế.\n• TCVN 3989:2012 Hệ thống tài liệu thiết kế xây dựng - cấp nước và thoát nước - mạng lưới bên\nngoài - bản vẽ thi công\na. Hệ thống cấp nước.\nNguồn cấp nước cho nhà máy được lấy từ KCN Phú An Thạnh, thông qua đường ống ngầm HDPE\ncấp đến bể ngầm của nhà máy. Nước từ bể ngầm này sẽ được bơm cấp cho hệ thống nước sinh hoạt,\nnước sản xuất, … Hệ thống cấp nước là một hệ thống bao gồm tất cả các đường ống, thiết bị dùng để\nphân phối và vận chuyển nước đến các đối tượng dùng nước. Hệ thống cấp nước hoàn chỉnh bao gồm\nmạng lưới cấp nước bên ngoài và mạng lưới cấp nước bên trong.\nMạng lưới cấp nước bên ngoài bao gồm tất cả các đường ống và thiết bị dùng để phân phối và vận\nchuyển nước đến các đối tượng dùng nước (ví dụ: Khu vực tưới cỏ…).\nMạng lưới cấp nước bên trong bao gồm tất cả các đường ống và thiết bị dùng để phân phối và vận\nchuyển nước đến các đối tượng dùng nước bên trong nhà máy (ví dụ: Bồn cầu, lavabô, vòi rửa, Chậu\nrửa tay..)\nTheo nhu cầu sản xuất thực tế của chủ đầu tư\nTính lưu lượng nước sinh hoạt\nLưu lượng nước sinh hoạt của công nhân khi làm việc tại nhà máy xác định theo công thức\nBảng dữ liêu\nq1 (25-45l/psn) or\nq2 (18-25l/p k\nN C Ts\n80- 100l/psn\nsn)\n(2.5-3)\n28 3 8 34 22 2,5\nTrang 29/44",
+      "page_30": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nQsh.ngđ = (N * C) * (q1 + q2) * K (L/ngày)\nQsh.ngđ = 11.7 (L/ngày)\nQsh.ngđ = 11.7 (m3/ngày) (1)\nTrong đó\nQsh.ngđ : Nước cấp cho công nhân trong 1 ngày\nq1 : Tiêu chuẩn dùng nước trong 1 ca (TCXDVN 33-2006)\nq2 : Tiêu chuẩn dùng nước cho 1 người/ bữa ăn (TCVN 4513-1988)\nN : Số người trong 1 ca\nC : Số ca\nTs : Số giờ trong 1 ca\nk : Hệ số sử dụng đồng thời\nNước tưới cây\nBảng dữ liêu\nqt Ft T\n3.0 - 4.0-1 L/m2 m2 ngày\n3.0 3.911 1.0\nXác định theo công thức\nQt.ng = qt * Ft * T (L/ngày)\nQtc = 11.7 (L/ngày) (2)\nTrong đó\nQt.ng : Lượng nước tưới trong 1 ngày\nQt.h : Lượng nước tưới trong 1 giờ\nQt : Tiêu chuẩn nước tưới đường\nFt : Diện tích cần tưới\nT : Thời gian tưới trong ngày\nLưu lượng nước cho sản xuất\nQpr = 80 (L/h)\nQpr = 1.3 (m3/day) (3)\nTổng lượng nước sản xuất trong 1 ngày: (3) )*1 ngày = 1.3 m3/ngày\nTổng lượng nước sinh hoạt trong 1 ngày: (1)*1 ngày =11,7 m3/ ngày\nTrang 30/44",
+      "page_31": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nTổng lượng nước sinh hoạt và sản xuất trong 1 ngày: (1)+(3) = 13 m3/ ngày\nVậy với nhu cầu dùng nước sinh hoạt của toàn công trình ta chọn bơm cấp nước có công suất là 2 bơm\n150 lít/phút – 1 hoạt động, 1 dự phòng\nNước sinh hoạt được lấy từ mạng lưới cấp nước KCN Phú An Thạnh, vào bể chứa ngầm đặt ở bên\nngoài công trình, bể làm bằng bê tông cốt thép. Tùy theo vị trí của tòa nhà để bố trí bể nước để tiện\ncho việc thau rửa vận hành sau này. Thể tích bể nước cấp cho nhu cầu sinh hoạt là 25.4 m3. Thể tích\nnước cấp cho Phòng cháy chữa cháy 450.0 m3.\nb. Hệ thống thoát nước.\nHệ thống thoát nước trong nhà gồm:\n• Hệ thống thoát nước thải sinh hoạt tại các khu vệ sinh.\n• Hệ thống thoát nước thải từ sản xuất.\n• Hệ thống nước thải từ hệ thống nước sạch: 1.9m3\n• Hệ thống thoát nước thải sinh hoạt được thiết kế cho tất cả các khu vệ sinh.\n• Nước thải ở các khu vệ sinh được thoát theo hai hệ thống riêng biệt: Hệ thống thoát nước rửa\nvà hệ thống thoát phân. Toàn bộ nước thải được đưa về trạm xử lý nước thải ở bên ngoài công trình.\n• Nước rửa từ sản xuất được thu gom tập trung đưa về trạm xử lý nước thải chung.\n• Bố trí ống thông hơi cho ống thoát rửa và thoát phân, ống thông hơi được đưa qua mái.\n• Toàn bộ hệ thống đường ống thoát nước trong nhà đều sử dụng ống nhựa uPVC áp lực PN6\nđến PN16\n• Nước sau trạm xử lý nước thải sẽ được dẫn ra cống thoát nước của KCN Phú An Thạnh.\nCông suất trạm xử lý nước thải bằng tổng lượng nước sinh hoạt, sản xuất và nước thải RO trong 1\nngày: 13 m3/ ngày + 1.9 m3/ ngày = 14.9 m3/ngày\nBơm thoát nước thải:\n• Hệ thống bơm nước thải phục vụ cho nhà máy.\n• Bố trí 2 cụm bơm nước thải lưu lượng 150 lít/phút bơm nước lên trạm xử lý, cột áp 15m H2O.\nTrang 31/44",
+      "page_32": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nPHẦN V. HỆ THỐNG PHỤ TRỢ\nV.1. HỆ THỐNG KHÍ NÉN (AIR COMPRESSOR):\n- Gồm một cụm máy nén khí trục vít loại không dầu có biến tần, công suất 0.88 m3/min, máy nén khí\ntạo ra áp suất làm việc cực đại của hệ thống là 0.69 Mpa. Máy sấy khí, bình chứa khí và các bộ lọc\nkhí cung cấp khí nén cho hệ thống sản xuất. Trên hệ thống có trang bị các van an toàn để đảm bảo\ngiữ áp suất của hệ thống không vượt quá mức cho phép.\n- Các đường ống dẫn khí nén làm bằng ống thép tráng kẽm chịu áp lực cao, kết nối bằng phương pháp\nhàn, ren hoặc nối mặt bích và được kiểm tra đảm bảo kín, bền trước khi đưa vào sử dụng. Ngoài ra\nhệ thống còn có các van khống chế và điều khiển quá trình cấp cấp khí nén. Các van được thiết kế có\nthể chịu được áp lực 1.0 Mpa.\n- Máy nén được bố trí trong phòng riêng biệt để tránh ảnh hưởng đến hoạt động của con người.\nV.2. HỆ THỐNG CẤP HƠI NƯỚC NÓNG (STEAM SYSTEM):\n- Nhà máy có trang bị 1 hệ thống nồi hơi sử dụng khí thiên nhiên hóa lỏng (LPG) để tạo hơi nước\nnóng cung cấp cho quá trình sản xuất. Công suất làm việc của nồi hơi: 629 kg/giờ, áp suất làm việc\ntừ 0.49 ~ 0.88 Mpa.Trên nồi hơi và hệ thống có trang bị các van an toàn để đảm bảo giữ áp suất của\nhệ thống không vượt quá mức cho phép.\n- Các đường ống dẫn hơi làm bằng ống thép đúc chịu áp lực cao (schedule 40) cho đường cấp hơi và\nống thép không rỉ (SUS304) cho đường hơi hồi về. Các đường ống được kết nối bằng phương pháp\nhàn, ren hoặc nối mặt bích và được kiểm tra đảm bảo kín, bền trước khi đưa vào sử dụng. Hệ thống\ncòn có các van khống chế và điều khiển quá trình cấp cấp hơi. Các van được thiết kế có thể chịu được\náp lực tới 1.6 Mpa.\n- Nồi hơi được bố trí trong phòng riêng biệt để tránh ảnh hưởng đến hoạt động của con người.\nTrang 32/44",
+      "page_33": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nPHẦN VI. HỆ THỐNG ĐIỆN\nVI.1. CƠ SỞ THIẾT KẾ\nVI.1.1 Tiêu chuẩn thiết kế\nHệ thống điện cho công trình chủ yếu phục vụ cho nhu cầu: Hoạt động của máy móc thiết bị, chiếu\nsáng, cung cấp nguồn cho các thiết bị văn phòng, hệ thống điều hòa không khí, hệ thống chữa cháy tự\nđộng, hệ thống bơm nước… Với mục đích như đã nêu hồ sơ thiết kế cần phải đảm bảo các yêu cầu\ntrong quá trình thiết kế như sau:\n- Đảm bảo an toàn, đúng tiêu chuẩn, đúng kỹ thuật.\n- Đảm bảo cung cấp nguồn điện liên tục và ổn định.\n- Tiết kiệm tối đa nguồn năng lượng điện.\n- Phù hợp và làm tăng thêm nét đẹp của kiến trúc.\n- Ứng dụng những kỹ thuật tiên tiến để tối ưu hóa công năng sử dụng.\n- Dễ dàng kiểm soát, bảo trì hệ thống khi hoạt động.\n- Giảm tối đa chi phí cho việc vận hành và bảo trì hệ thống.\nTất cả thuyết minh công việc phải phù hợp với những tiêu chuẩn và qui định hiện hành mới nhất.\n- Các quy phạm trang bị điện 11-2016.\n- TCVN 9385:2012 Tiêu chuẩn chống sét cho công trình xây dựng.\n- Tiêu chuẩn Pháp NFC17 102 cho chống sét.\n- TCXD 4756-1989: Qui phạm nối đất và nối không thiết bị.\n- TCVN 9207:2012: Tiêu chuẩn đặt đường dẫn điện trong nhà ở và công trình công cộng.\n- TCVN 9206:2012: Tiêu chuẩn đặt thiết bị điện trong nhà ở và công trình công cộng.\n- TCXDVN 333:2005: Yêu cầu thiết kế chiếu sáng ngoài.\n- TCVN 7114-1:2008: Chiếu sáng nơi làm việc.\n- TCVN 5738:2021: Hệ thống báo cháy tự động.\n- Tiêu chuẩn và qui định của điện lực địa phương.\nTrang 33/44",
+      "page_34": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n- Trong suốt quá trình thiết kế các tiêu chuẩn sau sẽ được dùng để xác định các tải phụ trợ và công suất\ncủa hệ thống:\nTầm Trung bình\nLoại hình xây dựng\nVA/m2 VA/m2\n- Không có điều hòa không khí 40 – 60 50\nVăn phòng\n- Có điều hòa không khí 70 – 100 85\n- Không gian mở 0 – 10 5\nBãi đậu xe\n- Có thông gió 10 – 20 15\n- Chiếu sáng 10 – 20 15\nCông nghiệp - Nếu có thêm thông gió 10 – 20 15\n- Nếu có thêm điều hòa không khí (xem ghi chú) 50 – 7 40\nGhi chú: khu vực công nghiệp vừa và công nghiệp nặng đòi hỏi phải có công suất đặt chi tiết trước khi\nước lượng nhu cầu sử dụng có thể có. Chỉ có các tải phân bố tập trung như chiếu sáng và điều hòa\nkhông khí có thể được ước lượng bằng cách sử dụng phương pháp thường cho từng khu vực.\nTải Điện Lắp Đặt Tối Đa Cho Các Khu Vực Ngoài Dân Dụng\nKhu dân cư, khách sạn, nhà trọ, Nhà xưởng, cửa hàng, kho, văn phòng,\nNhóm tải\nbệnh viện trường học và nhà thờ.\nA. Chiếu sáng ngoại trừ tải trong\n75% công suất đặt Bằng tải đặt\nnhóm F\nB.\n1000W cho ổ cắm đầu tiên cộng 1000W cho ổ cắm đầu tiên cộng với\n(i) Ổ cắm không lớn hơn 10A với 400W cho mỗi ổ cắm thêm vào 750W cho mỗi ổ cắm thêm vào\nngoại trừ trong phần B (ii)\n(ii) Ổ cắm không lớn hơn 10A\ntrong công trình cung cấp với thiết\n1000W cho ổ cắm đầu tiên cộng với 100W cho mỗi ổ cắm thêm vào\nbị lắp đặt cố định cho làm nóng\nhoặc lạnh cả 2\nDòng đầy tải của ổ cắm có dòng\nDòng đầy tải của ổ cắm có dòng định mức\nđịnh mực cao nhất cộng với 50%\n(iii) Ổ cắm lớn hơn 10A cao nhất cộng với 75% của dòng định\ncủa dòng định mức của các ổ cắm\nmức của các ổ cắm còn lại\ncòn lại\nTrang 34/44",
+      "page_35": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nC. Thiết bị cho bếp, làm nóng và\nlạnh, bao gồm máy nước nóng Dòng đầy tải của thiết bị có dòng Dòng đầy tải của thiết bị có dòng định\ntrực tiếp nhưng không bao gồm định mức cao nhất cộng với 50% mức cao nhất trong cộng với 75% dòng\nthiết trong nhóm D và J bên dòng đầy tải của các thiết bị còn lại đầy tải của các thiết bị còn lại\ndưới\nDòng đầy tải của động cơ có định mức\nDòng đầy tải của động cơ có định\nD. Động cơ ngoại trừ trong nhóm cao nhất cộng với 75% dòng đầy tảu của\nmức cao nhất cộng với 50% dòng\nE và F bên dưới động cơ cao thứ 2, cộng 50% dòng đầy tải\nđầy tải của các động cơ còn lại\ncủa các động cơ còn lại\n(i) Động cơ: động cơ đầu tiên – đầy tải\n1. Động cơ thứ 2 – 50% đầy tải\nE. Hệ thống phân phối nhiên liệu\n2. Các động cơ thêm vào – 25% đầy tải\nTải chiếu sáng tín đầy tải\nF. Hồ bơi, spa, sauna, bình gia\nnhiệt bao gồm máy nước nóng,\nDòng đầy tải\nbếp lò dự phòng và những thiết\nbị tương đương\nG. Các thiết bị khác không nằm\nBằng cách ước lượng\ntrong nhóm ở trên\n• Đơn vị đo lượng\nĐơn vị đo lượng cho Cơ, Điện và Đo đếm được cho như sau\nTÊN ĐƠN VỊ VIẾT TẮT\nGia tốc Mét trên giây bình phương m/s2\nDiện tích Mét vuông m2\nKhối lượng riêng Kg trên mét khối kg/m3\nDòng điện Ampere A\nĐiện năng tiêu thụ Kilowatt giờ kwh\nTóc độ dòng chảy Mét khối trên giờ m3/hr\nNhiệt lượng Kilocalorie kCal\nChiều dài Millimeter mm\nChiều dài Meter m\nChiều dài Kilometer km\nKhối lượng Kg hoặc tấn kg or ton\nCông suất Kilowatt kW\nCông suất Megawatt MW\nTốc độ (thẳng) Mét trên giây m/s\nTrang 35/44",
+      "page_36": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nTốc độ (quay) Vòng trên phút RPM\nNhiệt độ Thang độ bách phân ºC\nThời gian Giờ hr\nThể tích Mét khối m3\nĐiện áp Volt V\n• Ghi chú\nĐiều kiện chuẩn 1.013 bar và 0 ºC\nVI.1.2 Các yêu cầu cho sự mâu thuẫn\nNhà thầu phải thông báo cho chủ đầu tư và/ hoặc đại diện của chủ đầu tư bất kỳ sự mâu thuẫn giữa tài\nliệu này với các tài liệu có liên quan, với các tiêu chuẩn, quy định và các tài liệu thuyết minh đặc tín\nthông số kỹ thuật khác. Sau đó chủ đầu tư và/ hoặc tư vấn thiết kế sẽ đưa ra những quyết định và/ hoặc\ncác sự ưu tiên hợp lý bằng văn bản trước khi tiến hành công việc thiết kế, sản xuất và lắp đặt.\nCác tiêu chuẩn và quy định công nghiệp được đề cập trong tài liệu này phải là phiên bản mới nhất đã\nđược chấp nhận tại thời điểm trúng thầu, trừ khi có sự chỉ định nào khác.\nTrong trường hợp mâu thuẫn, thì thứ tự ưu tiên sẽ là:\n- Những quy định của pháp luật.\n- Các tài liệu thuyết minh đặc tín thông số kỹ thuật và các bản vẽ dành cho dự án.\n- Các tiêu chuẩn và quy định.\nVI.1.3 Điều kiện thiết kế\nTất cả các thiết bị phải có thể hoạt động trong điều kiện môi trường nhiệt độ, độ ẩm và bụi cao\n- Cho thiết bị điện, máy móc, đo lường và điều khiển được lắp đặt ngoài phòng và trong phòng\nkhông điều hòa: 45 ºC\n- Cho thiết bị lắp đặt trong phòng có điều hòa: 45 ºC\n- Cho thiết bị truyền thông và điều khiển trong phòng có điều hòa: 40 ºC\n- Tất cả thiết bị đo lường (bất kể lắp trong hay ngoài nhà) sẽ được thiết kế trong điều kiện bóng\nrâm tối đa 45ºC. Đo lường và tủ điều khiển đặt trực tiếp dưới ánh nắng mặt trời sẽ được bảo vệ chống\nlại tia nắng mặt trời.\n- Tầm độ ẩm: 95%\nVI.1.4 Chống nước\nỞ những nơi lắp đặt thiết bị điện như tủ điều khiển, đo lường, động cơ sẽ được bảo vệ chống lại ánh\nnắng mặt trời, nhiệt độ, mưa, độ ẩm, gió và tác động hóa học. Tất cả các thiết bị di chuyển có thể bị lộ\nTrang 36/44",
+      "page_37": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nra trong không khí như mỗi nối, cuộn dây v…v… phải chịu được điều kiện môi trường. Cấp độ bảo\nvệ của thiết bị điện và đo lường sẽ được cho như sau:\n- Trong nhà : IP-41 tối thiểu\n- Ngoài nhà : IP-55 tối thiểu\n- Trong nhà/ Ngoài trời dưới tác động bụi hóa chất : IP-55 tối thiểu\n- Động cơ điện trong nhà/ ngoài trời : IP-55 tối thiểu\n- Thiết bị đo lường trong nhà/ ngoài trời : IP-55 tối thiểu\nVI.1.5 Bảo vệ chống lại ánh sáng\nNhững tủ điều khiển và đo lường chịu tác động của nhiệt độ cao và ánh nắng phải được che phủ khỏi\ntác động này những không làm ảnh hưởng đến thông gió của thiết bị.\nCáp lắp đặt ngoài trời sẽ được phải được che phủ bảo vệ khỏi nắng nhưng không làm ảnh hưởng đến\nthông gió. Máng cáp sẽ được chọn để tránh hơi ẩm và hóa chất tác động có thể được tạo ra làm ăn\nmòn.\nVI.1.6 Nhiệt đới hóa\nCác dụng cụ điện tử là loại có khả năng chịu được điệu kiện khí hậu nhiệt đới về độ ẩm và nấm mốc.\nNhà thầu phải đảm bảo khi tháo mở bao gói, lưu trữ, tạm thời hay vĩnh viễn, trong điều kiện môi trường\nkhông khí được điều hòa.\nCác bảng mạch PC phải được chú ý đặc biệt ngay cả khi chúng được đặt trong phòng điều khiển.\nVI.1.7 Tính toán sơ bộ cho phụ tải\nPhụ tải hệ thống điện\nHệ thống điện được thiết kế sẽ bao gồm những phần chính như sau:\nPhần trung thế:\n- Hệ thống mạng lưới phân phối điện trung thế được kết nối vào cột trung thế 22kV của Khu\ncông nghiệp. Chủ đầu tư sẽ lắp đặt thêm cột trung thế phụ và các thiết bị đóng cắt theo tiêu chuẩn điện\nlực địa phương. Hệ thống điện sẽ được đo đếm trung thế bằng đồng hồ đo đếm trung thế (cung cấp bởi\nđiện lực địa phương) đặt tại cột trung thế ở trạm đóng cắt bên trong nhà máy, sau đó kết nối tới tủ\ntrung thế (1 khoang đầu vào, 1 khoang ra máy biến áp và tương lai lắp thêm 1 khoang). Dự án sử dụng\n01 máy biến áp dầu công suất là 1000kVA. Cáp trung thế đi từ cột điểm đấu ở trạm đóng cắt vào đến\ntrạm điện là cáp 24kV Cu/XLPE/PVC/DSTA/PVC 3C-70sqmm\nTrang 37/44",
+      "page_38": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nPhần hạ thế:\n- Hệ thống mạng lưới phân phối điện hạ thế.\n- Hệ thống các tủ phân phối.\n- Hệ thống chiều sáng, ổ cắm.\n- Hệ thống các thiết bị điện.\n- Cấp nguồn cho hệ thống cấp thoát nước.\n- Cấp nguồn cho hệ thống chữa cháy tự động.\n- Cấp nguồn cho hệ thống điều hòa không khí.\n- Cấp nguồn cho các hệ thống báo cháy, tổng đài điện thoại…\nBảng tính lựa chọn máy biến áp\nHệ số Công suất\nStt Tên tải Công suất Ghi chú\nnhu cầu tính toán\nKw Kva Kva\n1 Chiếu sáng 28.00 35.00 1.00 35.00\n2 Ổ cắm điện 56.30 70.38 0.60 42.23\n3 Điều hòa không khí 145.51 181.89 0.80 145.51\n4 Điều hòa không khí (Tương lai) 15.90 19.88 0.80 15.90\n5 Quạt thông gió 15.41 19.26 0.80 15.41\n6 Quạt xả gió công nghiệp 7.15 8.94 0.80 7.15\nQuạt xả gió công nghiệp (tương\n7 lai) 7.15 8.94 0.80 7.15\n8 AHU 58.10 72.63 0.80 58.10\n9 AHU (Tương lai) 19.70 24.63 0.80 19.70\n10 Kho lạnh 71.50 89.38 0.60 53.63\n11 Máy làm lạnh - 1 46.00 57.50 1.00 57.50\n12 Máy làm lạnh - 2 (tương lai) 46.00 57.50 1.00 57.50\n13 Quạt chắn gió 5.40 6.75 0.60 4.05\n14 Máy nén khí 8.00 10.00 0.80 8.00\n15 Máy nén khí (tương lai) 8.00 10.00 0.80 8.00\n16 Nồi hơi 5.20 6.50 0.80 5.20\n17 Nồi hơi (Tương lai) 5.20 6.50 0.80 5.20\n18 LPG – Hệ thống gas 15.00 18.75 0.80 15.00\nTrang 38/44",
+      "page_39": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n19 Máy làm lạnh bơm - 1 11.00 13.75 1.00 13.75\n20 Máy làm lạnh bơm - 2 (tương lai) 11.00 13.75 1.00 13.75\n21 Máy bơm cấp nước cho gia đình 4.40 5.50 0.60 3.30\n22 Máy nước nóng 35.00 43.75 0.60 26.25\nMáy bơm cấp nước cho lò hơi &\n23 sản xuất 7.40 9.25 0.60 5.55\n24 Máy bơm cấp nước cho RO 7.40 9.25 0.60 5.55\n24 Hệ thống nước RO 5.00 6.25 0.60 3.75\n24 Bơm thoát nước 7.50 9.38 0.60 5.63\n25 Máy bơm vòi chữa cháy 185.00 231.25 - -\n26 Quạt hút khói 33.00 41.25 - -\n27 Vòi hoa sen không khí 5.00 6.25 0.60 3.75\n28 Thang máy 10.50 13.13 0.60 7.88\n29 Cần cẩu 3.00 3.75 0.60 2.25\n30 Cửa Shutter 5.00 6.25 0.60 3.75\n30 Sấy 28.16 35.20 0.60 21.12\n30 Máy sưởi nấu ăn 31.60 39.50 0.60 23.70\n31 Bộ sạc xe nâng 22.00 27.50 0.60 16.50\n31 Máy hàn 36.00 45.00 0.60 27.00\n32 Máy sản xuất 380V 146.59 183.24 0.60 109.94\n33 Máy sản xuất 200V 26.60 33.25 0.60 19.95\n34 Máy sản xuất 100V - - - -\n35 Tương lai 100.00 125.00 0.60 75.00\nA Tổng cộng 1,605.84 0.59 948.58\nB Hệ số đồng thời của máy biến áp 90% 90%\nC Tổng 1 (A x B) 1,445.25 853.72\nD Hệ số dự phòng (An toàn) 15% 150.00 150.00\nE Tổng 2 (C+D) 1,595.25 1,003.72\nTrang 39/44",
+      "page_40": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nCông suất được tính toán cuối\nH cùng 1,000.00\nLựa chọn công suất MBA 1,000.00 kVA\nChọn máy biến áp 1000kVA đặt tại phòng điện chuyển từ điện áp 22kV xuống 0.4-0.23kV cung cấp\nđiện phục vụ cho sản xuất, sinh hoạt (chiếu sáng, điều hòa không khí, …) và vận hành, quản lý công\ntrình.\nMáy biến áp 100kVA chuyển từ điện áp 400V xuống 200V cung cấp điện cho sản xuất.\nTủ MSB-1 lắp mới và lấy nguồn từ TR-1 1000kVA, tủ MDB-200V lắp mới và lấy nguồn từ TR-2\n100kVA\nKhi có sự cố cháy xảy ra, tín hiệu báo cháy sẽ kích hoạt gọi máy phát đồng thời gửi tín hiệu ngắt\nMCCB của máy lạnh, quạt, Boiler, AHU, nước cấp, nước thoát, máy phát điện sẽ hoạt động và chỉ cấp\nnguồn cho tải điện phục vụ phòng cháy chữa cháy. Khi mất điện lưới, 01 máy phát điện công suất dự\nphòng 110kVA đặt tại khu vực máy phát cấp nguồn cho một số tải ưu tiên của nhà xưởng. Đảm bảo\nhệ thống hoạt động khi mất điện lưới.\nPhần máy phát điện:\n- Có 01 máy phát điện, có công suất dự phòng là 110kVA\n- Cấp nguồn một số tải ưu tiên theo yêu cầu thiết kế.\nVI.1.8 Mô tả hệ thống\nHệ thống điện được thiết kế sẽ bao gồm những phần chính như sau:\n- Hệ thống các tủ phân phối\n- Hệ thống chiếu sáng\n- Hệ thống ổ cắm điện\n- Hệ thống nối đất\n- Hệ thống mạng\n- Hệ thống camera giám sát\n- Hệ thống kiểm soát hệ thống cửa\n- Hệ thống loa thông báo\nVI.2 HỆ THỐNG CÁC TỦ PHÂN PHỐI\nVI.2.1 Tủ phân phối\n- Các tủ phân phối được cấp nguồn từ tủ phân phối chính\n- Kích thước của mỗi tủ được dựa vào số lượng các thiết bị có trong tủ.\nHệ thống điện động lực:\nTrang 40/44",
+      "page_41": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nVI.2.2 Hệ thống điện động lực, cấp nguồn thiết bị\nĐặc tính của hệ thống cung cấp điện mô tả như sau:\nPhân phối hạ thế LV: 400V/230 V, 3 pha, 50Hz cấp nguồn cho máy sản xuất và khu tiện ích.\nPhân phối hạ thế LV: 200V, 3 pha, 50Hz cấp nguồn cho máy sản xuất 3 pha 200V.\nÐộng cơ: 220V - 1 ph, hoặc 380V-3 ph,50Hz\nChiếu sáng: bình thuờng và khẩn cấp 220 V - 1 ph, 50Hz\nỔ cắm cho dụng cụ và đèn cầm tay 220 V - 1 ph, 50Hz\nÐiều khiển và báo động cho động cơ hạ thế 220 V - AC., 50Hz\nVI.2.3 Cáp điện\n- Các chủng Ioại cáp điện sau đây sẽ đuợc dùng cho việc phân phối điện động lực:\n+ Cáp Cu/XLPE/PVC hay Al/XLPE/PVC: dùng cho các tuyến cáp chính hay nhánh,\nđuợc đặt trong thang cáp/trunking.\n+ Cáp Cu/PVC: dùng để cấp điện cho các thiết bị điện (đèn, ổ cắm, máy lạnh…), đuợc đặt\ntrong hộp cáp (trunking) hay trong ống (conduit).\n+ Cáp điện có vỏ bọc chống cháy đuợc dùng cấp điện cho các thiết bị liên quan đến chống\ncháy (tủ bơm chữa cháy)\n- Phương pháp lắp đặt cáp - dây cáp:\n+ Toàn bộ dây cáp phải được giấu kín ở những nơi nào có thể nhìn được, bằng cách đặt\ntrên thang cáp đi trên trần, chôn trong tuờng, sàn, mương cáp . . .\n+ Phần đặt dây cáp phải ngăn nắp theo chiều thẳng đứng hoặc nằm ngang tùy theo từng\ntruờng hợp, các dây cáp không đuợc lắp đặt trực tiếp mà phải đuợc đặt trên mương cáp,\nmáng cáp, thang cáp hoặc ống bảo vệ. Khi kết nối với các thiết bị sinh nhiệt phải sử\ndụng dây cáp có vỏ bọc chịu nhiệt.\n+ Việc kết nối dây cáp phải được thực hiện tại vị trí các cầu đấu trong các tủ phân phối\nhoặc trong các hộp nối có chứa các cầu đấu.\nVI.3 HỆ THỐNG CHIẾU SÁNG\n- Hệ thống chiếu sáng được thiết kế điều khiển bằng công tắc tại các phòng. Hệ thống được cấp\nnguồn cục bộ theo mỗi tầng.\n- Loại đèn được sử dụng là loại đèn LED để tiết kiệm điện năng. Độ rọi của các phòng được\nlắp đặt như sau\nTrang 41/44",
+      "page_42": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nKhu vực Độ rọi yêu cầu (Lux)\nKhu vực sản xuất 500\nNhà ăn, Căng tin 500\nPhòng thiết bị 75-150\nĐường giao thông 5\nNhà kho 150~300\nHành lang 200\nKhu vực đậu xe 100\nNhà vệ sinh. 200\nVăn phòng 500\nVI.4 HỆ THỐNG Ổ CẮM ĐIỆN\n- Cáp nối với ổ cắm là loại dây bọc Cu/PVC/PVC, ống dẫn cáp nhựa hoặc máng cáp, thang cáp\nđể dẫn cáp trong tất cả các khu vực.\n- Ổ cắm định mức 220V 2P+E cường độ dòng điện định mức là 16 Ampe. Ổ cắm ở các vị trí nhà\nvệ sinh và ngoài trời sẽ lắp thêm mặt chống nước. Ổ cắm công nghiệp định mức 380V 4P+E cường độ\ndòng điện định mức 16 Ampe dành cho sạc xe nâng.\nVI.5 HỆ THỐNG NỐI ĐẤT\n- Tiếp địa và mối nối tuân theo tiêu chuẩn TCVN 9358:2012.\n- Tiếp địa cho động lực và kết cấu, tiếp địa hệ truyền thông và tiếp địa chống sét sẽ được thiết\nkế hệ thống tiếp địa ngầm độc lập với nhau.\n- Điện trở của lưới tiếp địa sẽ được giữ ở mức thấp nhất có thể nhưng không vượt quá giá trị tiêu\nchuẩn qui định trên mỗi hố tiếp địa.\n- Tất cả các mối nối tiếp địa sẽ dùng kẹp cố định hoặc dùng phương pháp hàn hóa nhiệt tương\nđương.\nVI.6 HỆ THỐNG MẠNG\n- Cáp đường trục sẽ được thiết kế và lắp đặt cho cả thoại và dữ liệu.\n- Ổ cắm máy tính sẽ được lắp đặt những vị trí trong nhà như bản vẽ đã chỉ ra.\nTrang 42/44",
+      "page_43": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\n- Mạng dữ liệu sẽ có dải và độ rộng theo tiêu chuẩn ANSI EIA/TIA. Cáp đường trục sẽ bao gồm\nba thành phần sau:\n+ Mức 1: thiết bị chính - Ngắt chuyển mạch và tường lửa trục chính.\n+ Mức 2: thiết bị phụ - Tủ đấu nối trung gian.\n+ Mức 3: Người dùng - Ổ cắm thoại và dữ liệu.\n- Tốc độ truyền thông sẽ là 100Mbps tại Mức 1 và 2, 10/100 Mbps tại mức 3.\n- Thiết bị chính cho đường trục sẽ bao gồm Ngắt chuyển mạch với tường lửa, Tủ phân phối thoại\nvà dự liệu chính. Tủ phân phối thoại và dự liệu chính sẽ được đặt tại các nhà bảo vệ.\n- Thiết bị phụ cho đường trục sẽ bao gồm tủ phân phối trung gian. Tủ phân phối trung gian sẽ\nđược đặt tại phòng tủ điện.\nVI.7 HỆ THỐNG CAMERA GIÁM SÁT\n- Các camera được lắp đặt ở các vị trí cửa ra vào và các vị trí quan trọng cần giám sát.\n- Các thiết bị chính của hệ thống camera bao gồm:\n+ Đầu ghi hình IP - 16 kênh, đặt trong phòng thiết bị máy tín của nhà máy.\n+ Camera loại trong nhà và ngoài nhà, có độ phân giải là 2MP, Len cố định 2.8mm.\n+ Cáp CAT 6 UTP.\n+ 01 màn hình 50” đặt ở khu vực văn phòng.\n- Thời gian lưu trữ dữ liệu hệ thống camera là 01 tháng.\nVI.8 HỆ THỐNG KIỂM SOÁT CỬA\n- Chỉ đi ống và hộp đấu nối, còn lại các thiết bị và dây bởi người khác cấp\n- Các bộ khóa từ được lắp đặt ở một số vị trí vào ra cần thiết theo yêu cầu của chủ đầu tư.\n- Các thiết bị chính của hệ thống kiểm soát cửa bao gồm:\n+ Máy tính điều khiển chung hệ thống, đặt tại nhà bảo vệ của nhà máy.\n+ Switch trung gian đặt tại các tủ rack trung gian.\n+ Bộ điều khiển cửa loại 4 cửa, 2 cửa hoặc 1 cửa. Đặt tại vị trí trên trần của các cửa điều khiển\nchung nhau.\n+ Đầu đọc thẻ: Để nhận diện các thẻ có quyền vào/ra. Lắp phía ngoài các cửa.\n+ Nút nhấn ra: Dùng để mở cửa từ phía bên trong đi ra.\n+ Nút nhấn khẩn cấp: Dùng trong trường hợp khẩn cấp mà cửa không tự mở (ví dụ như có cháy\nmà cửa vẫn khóa)\n+ Bộ khóa cửa đơn hoặc đôi kèm giá đỡ: Dùng để khóa/mở cửa 1 cánh hoặc 2 cánh.\n+ Thẻ từ: Được cài mã để quét mở các đầu đọc thẻ liên kết .\nTrang 43/44",
+      "page_44": "Thuyết minh thiết kế kỹ thuật Dự án: MEGMILK SNOW BRAND VIỆT NAM\nVI.9 HỆ THỐNG LOA THÔNG BÁO\n- Bố trí các loa gắn trần và tường theo từng khu vực mục đích để thông báo các thông tin chung\n- Trang bị bộ định thời gian và bộ phát chuông để thông báo giờ làm việc, giải lao,…\n- Liên động với hệ thống báo cháy thể thông báo di tản khi kích hoạt hệ thống báo cháy\n- Có pin dự phòng hoạt động trong 30 phút khi bị mất điện\nTrang 44/44"
+    },
+    "table": {
+      "page_6": [
+        [
+          [
+            "STT",
+            "LOẠI ĐẤT",
+            "DIỆN TÍCH (m2)",
+            "TỈ LỆ (%)"
+          ],
+          [
+            "1",
+            "Diện tích khu đất",
+            "15.211,00",
+            "100%"
+          ],
+          [
+            "2",
+            "Đường & sân bãi",
+            "8.041,37",
+            "52.87%"
+          ],
+          [
+            "3",
+            "Đất cây xanh",
+            "3.916,02",
+            "25.74%"
+          ],
+          [
+            "4",
+            "Đất xây dựng công trình",
+            "3.253,61",
+            "21.39%"
+          ],
+          [
+            "",
+            "Đất xây dựng nhà máy, kho tàng và dịch vụ",
+            "2.765,84",
+            "18,18%"
+          ],
+          [
+            "",
+            "Đất xây dựng công trình hạ tầng kỹ thuật",
+            "487,77",
+            "3,21%"
+          ]
+        ]
+      ],
+      "page_14": [
+        [
+          [
+            "Đường kính",
+            "Mác thép",
+            "Giới hạn\nchảy",
+            "Cường độ\nchịu kéo",
+            "Cường độ\nchịu nén",
+            "Cường độ\nchịu cắt"
+          ],
+          [
+            "D (mm)",
+            "",
+            "fy (Mpa)",
+            "Rs (Mpa)",
+            "Rsc (Mpa)",
+            "Rsw (Mpa)"
+          ],
+          [
+            "D < 10",
+            "CB240-T",
+            "240",
+            "210",
+            "210",
+            "170"
+          ],
+          [
+            "10 ≤ D <16",
+            "CB400-V",
+            "400",
+            "350",
+            "350",
+            "280"
+          ],
+          [
+            "D ≥ 16",
+            "CB500-V",
+            "500",
+            "435",
+            "435",
+            "300"
+          ]
+        ]
+      ],
+      "page_15": [
+        [
+          [
+            "Các lớp\ncấu tạo sàn",
+            "Chiều dày\n(cm)",
+            "Trọng lượng\nriêng γ (KN/m3)",
+            "Tiêu chuẩn\n(KN/m2)",
+            "Hệ số\nn",
+            "Tính toán\n(KN/m2)"
+          ],
+          [
+            "Tole + xà gồ",
+            "-",
+            "-",
+            "0.15",
+            "1.1",
+            "0.17"
+          ],
+          [
+            "Hệ thống kỹ thuật",
+            "-",
+            "-",
+            "0.2~0.3",
+            "1.2",
+            "0.24~0.36"
+          ],
+          [
+            "Celling",
+            "-",
+            "-",
+            "0.1~0.2",
+            "1.2",
+            "0.12~0.24"
+          ],
+          [
+            "Tổng tĩnh tải mái",
+            null,
+            null,
+            "0.45~0.65",
+            "1.2",
+            "0.53~0.77"
+          ],
+          [
+            "Giá trị thiết kế chọn",
+            null,
+            null,
+            "0.45~0.65",
+            "1.2",
+            "0.53~0.77"
+          ]
+        ],
+        [
+          [
+            "Các lớp\ncấu tạo sàn",
+            "Chiều dày\n(cm)",
+            "Trọng lượng\nriêng γ (KN/m3)",
+            "Tiêu chuẩn\n(KN/m2)",
+            "Hệ số\nn",
+            "Tính toán\n(KN/m2)"
+          ],
+          [
+            "Tole + xà gồ",
+            "-",
+            "-",
+            "0.15",
+            "1.1",
+            "0.17"
+          ],
+          [
+            "Hệ thống kỹ thuật",
+            "-",
+            "-",
+            "0.05",
+            "1.2",
+            "0.06"
+          ],
+          [
+            "Celling",
+            "-",
+            "-",
+            "-",
+            "1.2",
+            "-"
+          ],
+          [
+            "Tổng tĩnh tải mái",
+            null,
+            null,
+            "0.2",
+            "1.2",
+            "0.23"
+          ],
+          [
+            "Giá trị thiết kế chọn",
+            null,
+            null,
+            "0.2",
+            "1.2",
+            "0.23"
+          ]
+        ],
+        [
+          [
+            "Các lớp\ncấu tạo sàn",
+            "Chiều dày\n(cm)",
+            "Trọng lượng\nriêng γ (KN/m3)",
+            "Tiêu chuẩn\n(KN/m2)",
+            "Hệ số\nn",
+            "Tính toán\n(KN/m2)"
+          ],
+          [
+            "Lớp gạch lát nền",
+            "1.0",
+            "22",
+            "22",
+            "1.2",
+            "0.264"
+          ],
+          [
+            "Lớp vữa lót gạch",
+            "2.0",
+            "18",
+            "36",
+            "1.3",
+            "0.468"
+          ],
+          [
+            "Tổng tĩnh tải sàn",
+            null,
+            null,
+            "58",
+            "",
+            "0.732"
+          ],
+          [
+            "Giá trị thiết kế chọn",
+            null,
+            null,
+            "1",
+            "1.2",
+            "1.2"
+          ]
+        ]
+      ],
+      "page_16": [
+        [
+          [
+            "Tường gạch block\n& gạch ống",
+            "Tiêu chuẩn\n(KN/m2)",
+            "Chiều cao\ntầng (m)",
+            "Chiều cao\ndầm (m)",
+            "Chiều cao\ntường (m)",
+            "Hệ số\nn",
+            "Tính toán\n(KN/m2)"
+          ],
+          [
+            "Tường gạch block dày 110",
+            "2.1",
+            "H\nt",
+            "h\nd",
+            "= (H-h )\nt d",
+            "1.2",
+            "= 2.52x(H-h )\nt d"
+          ],
+          [
+            "Tường gạch ống dày 100",
+            "1.8",
+            "H\nt",
+            "h\nd",
+            "= (H-h )\nt d",
+            "1.2",
+            "= 2.16x(H-h )\nt d"
+          ],
+          [
+            "Tường gạch ống dày 200",
+            "3.3",
+            "H\nt",
+            "h\nd",
+            "= (H-h )\nt d",
+            "1.2",
+            "= 3.96x(H-h )\nt d"
+          ]
+        ],
+        [
+          [
+            "STT",
+            "Công năng sử dụng",
+            "Hoạt tải tiêu\nchuẩn (KN/m2)",
+            "Hệ số\nn",
+            "Hoạt tải tính toán\n(KN/m2)"
+          ],
+          [
+            "1",
+            "Khu vực sản xuất và nhà kho",
+            "30.0\n20.0\n15.0",
+            "1.3",
+            "39.0\n26.0\n19.5"
+          ],
+          [
+            "2",
+            "Phòng nấu tầng 2FL+1m",
+            "20.0",
+            "1.3",
+            "26.0"
+          ],
+          [
+            "3",
+            "Phòng thực hành, phòng kỹ thuật,\nphòng điện, phòng đun hơi, AHU",
+            "10.0",
+            "1.3",
+            "13.0"
+          ],
+          [
+            "4",
+            "Nhà văn phòng, phòng họp, căn tin",
+            "3.0",
+            "1.3",
+            "3.9"
+          ],
+          [
+            "5",
+            "Sàn cầu thang, hành lang, WC",
+            "3.0",
+            "1.3",
+            "3.9"
+          ],
+          [
+            "6",
+            "Mái tole, mái canopy",
+            "0.3",
+            "1.3",
+            "0.39"
+          ]
+        ]
+      ],
+      "page_17": [
+        [
+          [
+            "Cấp hậu quả của\ncông trình",
+            "Mức độ quan trọng\ncủa công trình",
+            "Giá trị Ɣ\nn"
+          ],
+          [
+            "C1",
+            "Thấp",
+            "0.87"
+          ],
+          [
+            "C2",
+            "Trung bình",
+            "1.00"
+          ],
+          [
+            "C3",
+            "Cao",
+            "1.15"
+          ],
+          [
+            "CHÚ THÍCH: Đối với nhà cao trên 250m và mái nhịp lớn (không có trụ\ntrung gian) với nhịp lớn hơn 120m thì hệ số Ɣ lấy không nhỏ hơn 1.2\nn",
+            null,
+            null
+          ]
+        ]
+      ],
+      "page_21": [
+        [
+          [
+            "STT",
+            "Tên phòng",
+            "Điều kiện phòng",
+            null,
+            null,
+            "Điều kiện thiế\nt kế",
+            null,
+            "Chọn quạt thông gió",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            "Thể t\ních",
+            "30\nAf/N",
+            "Tần\nsố.",
+            "Công\nsuất\nquạt.",
+            "Lưu\nlượng\nkhí",
+            "SL",
+            "Loại quạt",
+            "OA",
+            "EA"
+          ],
+          [
+            null,
+            null,
+            "m3",
+            "SL",
+            "ACH",
+            "CMH",
+            "CMH",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "",
+            "VĂN PHÒNG 1 FL",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1",
+            "Hành lang",
+            "180",
+            "1",
+            "1.0",
+            "180",
+            "200",
+            "1",
+            "Quạt hướng trục\nNướng cửa (DG)",
+            "SF",
+            "DG"
+          ],
+          [
+            "2",
+            "Phòng họp (VIP)",
+            "75",
+            "8",
+            "1.0",
+            "240",
+            "250",
+            "1",
+            "Bộ trao đổi nhiệt\n(HE)",
+            "HE",
+            "DG"
+          ],
+          [
+            "3",
+            "NHÀ VỆ SINH NAM 1\n-2",
+            "22",
+            "",
+            "10.0",
+            "218",
+            "250",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "4",
+            "WC (F) 1-2",
+            "28",
+            "",
+            "10.0",
+            "284",
+            "300",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "5",
+            "Phòng thay đồ cho khác\nh",
+            "30",
+            "",
+            "5.0",
+            "150",
+            "150",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "6",
+            "Phòng đựng thức ăn 1",
+            "14",
+            "",
+            "10.0",
+            "137",
+            "150",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ]
+        ]
+      ],
+      "page_22": [
+        [
+          [
+            "7",
+            "Phòng thí nghiệm",
+            "276",
+            "5",
+            "1.0",
+            "276",
+            "300",
+            "1",
+            "Quạt hướng trục\n(SF)\nQuạt trần (EF)",
+            "SF",
+            "EF"
+          ],
+          [
+            "8",
+            "Phòng thí nghiệm (mui\nxe)",
+            "",
+            "",
+            "",
+            "1,426",
+            "1000",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "EF"
+          ],
+          [
+            "9",
+            "Phòng vi khuẩn",
+            "40",
+            "1",
+            "1.0",
+            "40",
+            "100",
+            "1",
+            "Quạt hướng trục\n(SF)\nQuạt trần (EF)",
+            "SF",
+            "EF"
+          ],
+          [
+            "10",
+            "Văn phòng sản xuất",
+            "274",
+            "8",
+            "1.0",
+            "275",
+            "300",
+            "1",
+            "Bộ trao đổi nhiệt",
+            "HE",
+            "Ống d\nẫn"
+          ],
+          [
+            "11",
+            "Khu vực thay giày",
+            "137",
+            "",
+            "5.0",
+            "686",
+            "700",
+            "1",
+            "Quạt hướng trục",
+            "LV",
+            "EF"
+          ],
+          [
+            "12",
+            "NHÀ VỆ SINH NAM 1\n-1",
+            "47",
+            "",
+            "10.0",
+            "465",
+            "500",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "13",
+            "WC (F) 1-1",
+            "42",
+            "",
+            "10.0",
+            "415",
+            "450",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "14",
+            "Phòng giặt",
+            "32",
+            "",
+            "15.0",
+            "482",
+            "500",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "15",
+            "Lối vào nhân viên",
+            "97",
+            "",
+            "5.0",
+            "487",
+            "500",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "16",
+            "Phòng thay đồ (M)",
+            "137",
+            "20",
+            "1.0",
+            "600",
+            "600",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "EF"
+          ],
+          [
+            "17",
+            "Phòng thay đồ (F)",
+            "132",
+            "20",
+            "1.0",
+            "600",
+            "600",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "EF"
+          ],
+          [
+            "18",
+            "Văn phòng kỹ thuật",
+            "108",
+            "8",
+            "1.0",
+            "240",
+            "250",
+            "1",
+            "Bộ trao đổi nhiệt",
+            "HE",
+            "DG"
+          ],
+          [
+            "19",
+            "Kho phụ tùng",
+            "54",
+            "",
+            "3.0",
+            "162",
+            "200",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "20",
+            "Xưởng",
+            "122",
+            "5",
+            "1.0",
+            "150",
+            "150",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "DG"
+          ],
+          [
+            "21",
+            "Lưu trữ 1",
+            "83",
+            "2",
+            "3.0",
+            "248",
+            "250",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "22",
+            "Phòng điện",
+            "401",
+            "",
+            "1.0",
+            "401",
+            "400",
+            "1",
+            "Quạt hướng trục",
+            "Ống\ndẫn",
+            "SF"
+          ],
+          [
+            "23",
+            "Phòng nồi hơi",
+            "122",
+            "",
+            "50.0",
+            "6,075",
+            "9,800",
+            "2",
+            "Quạt treo tường\n(SF)\nQuạt hướng trục\n(EF)",
+            "SF",
+            "EF"
+          ],
+          [
+            "24",
+            "Hành lang 1-1",
+            "393",
+            "14",
+            "1.0",
+            "420",
+            "450",
+            "1",
+            "",
+            "DG",
+            "DG"
+          ],
+          [
+            "",
+            "VĂN PHÒNG 2 FL",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "25",
+            "Phòng họp 1",
+            "111",
+            "12",
+            "1.0",
+            "360",
+            "400",
+            "1",
+            "Bộ trao đổi nhiệt",
+            "HE",
+            "Ống d\nẫn"
+          ]
+        ]
+      ],
+      "page_23": [
+        [
+          [
+            "26",
+            "Phòng họp 2",
+            "66",
+            "8",
+            "1.0",
+            "240",
+            "250",
+            "1",
+            "Bộ trao đổi nhiệt",
+            "HE",
+            "Ống d\nẫn"
+          ],
+          [
+            "27",
+            "Phòng họp 3",
+            "75",
+            "1",
+            "1.0",
+            "75",
+            "100",
+            "1",
+            "Bộ trao đổi nhiệt",
+            "HE",
+            "Ống d\nẫn"
+          ],
+          [
+            "28",
+            "Chức",
+            "576",
+            "14",
+            "1.0",
+            "576",
+            "600",
+            "1",
+            "Bộ trao đổi nhiệt",
+            "HE",
+            "Ống d\nẫn"
+          ],
+          [
+            "29",
+            "Phòng máy chủ",
+            "48",
+            "",
+            "1.0",
+            "48",
+            "100",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "30",
+            "Phòng đựng thức ăn 2",
+            "21",
+            "",
+            "10.0",
+            "213",
+            "250",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "31",
+            "NHÀ VỆ SINH NAM 2\n-2",
+            "40",
+            "",
+            "10.0",
+            "400",
+            "400",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "32",
+            "WC (F) 2-2",
+            "40",
+            "",
+            "10.0",
+            "400",
+            "400",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "33",
+            "Lưu trữ 3",
+            "53",
+            "2",
+            "3.0",
+            "159",
+            "150",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "34",
+            "Bếp thử nghiệm",
+            "349",
+            "2",
+            "1.0",
+            "350",
+            "350",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "35",
+            "Nhà bếp thử nghiệm (m\náy hút mùi)",
+            "",
+            "",
+            "",
+            "2,074",
+            "2,100",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "EF"
+          ],
+          [
+            "36",
+            "Lưu trữ 2",
+            "63",
+            "2",
+            "3.0",
+            "189",
+            "200",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "37",
+            "Hội trường + khu vực vi\new",
+            "264",
+            "9",
+            "1.0",
+            "270",
+            "300",
+            "1",
+            "",
+            "DG",
+            "DG"
+          ],
+          [
+            "38",
+            "NHÀ VỆ SINH NAM 2\n-1",
+            "39",
+            "",
+            "10.0",
+            "387",
+            "400",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "39",
+            "WC (F) 2-1",
+            "39",
+            "",
+            "10.0",
+            "387",
+            "400",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "40",
+            "Phòng cầu nguyện",
+            "29",
+            "2",
+            "1.0",
+            "60",
+            "100",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "41",
+            "Phòng tiếp khách (M)",
+            "125",
+            "9",
+            "1.0",
+            "270",
+            "300",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "Ống\ndẫn"
+          ],
+          [
+            "42",
+            "Phòng chờ (F) + Phòng\ncho con bú",
+            "125",
+            "9",
+            "1.0",
+            "270",
+            "300",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "Ống\ndẫn"
+          ],
+          [
+            "43",
+            "Căng tin",
+            "432",
+            "80",
+            "1.0",
+            "1,300",
+            "1,300",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "EF"
+          ],
+          [
+            "44",
+            "Căng tin ( hood)",
+            "",
+            "",
+            "",
+            "1,037",
+            "1,100",
+            "1",
+            "Quạt hướng trục",
+            "",
+            "EF"
+          ],
+          [
+            "45",
+            "Hành lang 2-2",
+            "180",
+            "6",
+            "1.0",
+            "180",
+            "200",
+            "1",
+            "",
+            "DG",
+            "DG"
+          ],
+          [
+            "",
+            "Khu vực nhà máy",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "NHÀ MÁY 1 FL",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ],
+      "page_24": [
+        [
+          [
+            "46",
+            "Kho vật liệu",
+            "1,48\n5",
+            "2",
+            "1.0",
+            "1,485",
+            "1,500",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "EAG"
+          ],
+          [
+            "47",
+            "Phòng chuẩn bị 1",
+            "95",
+            "10",
+            "1.0",
+            "300",
+            "300",
+            "1",
+            "Quạt hướng trục",
+            "RD",
+            "EF"
+          ],
+          [
+            "48",
+            "Phòng đóng gói 1",
+            "1,27\n2",
+            "5",
+            "1.0",
+            "1,273",
+            "1,900",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "RD"
+          ],
+          [
+            "49",
+            "Phòng chuẩn bị 2",
+            "64",
+            "10",
+            "1.0",
+            "300",
+            "300",
+            "1",
+            "Quạt hướng trục",
+            "RD",
+            "EF"
+          ],
+          [
+            "50",
+            "Phòng tài xế",
+            "17",
+            "2",
+            "5.0",
+            "86",
+            "100",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "51",
+            "Văn phòng hậu cần",
+            "16",
+            "2",
+            "1.0",
+            "60",
+            "100",
+            "1",
+            "Quạt hướng trục",
+            "SF",
+            "DG"
+          ],
+          [
+            "52",
+            "Nhà vệ sinh nam 1-3",
+            "9",
+            "",
+            "10.0",
+            "90",
+            "100",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "53",
+            "WC (F) 1-3",
+            "11",
+            "",
+            "10.0",
+            "105",
+            "100",
+            "1",
+            "Quạt hướng trục",
+            "DG",
+            "EF"
+          ],
+          [
+            "",
+            "NHÀ MÁY 2 FL",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "54",
+            "Phòng nấu ăn 1",
+            "770",
+            "5",
+            "1.0",
+            "770",
+            "900",
+            "1",
+            "Quạt hướng trục",
+            "AHU",
+            "EF"
+          ],
+          [
+            "55",
+            "Phòng nấu ăn 1\n(máy hút mùi)",
+            "",
+            "",
+            "",
+            "4,900",
+            "4,900",
+            "1",
+            "Quạt Sirocco (với\nHEPA)",
+            "SF",
+            "EF"
+          ],
+          [
+            "56",
+            "Phòng nấu ăn 2\n(máy hút mùi-tương lai)",
+            "",
+            "",
+            "",
+            "4,900",
+            "4,900",
+            "2",
+            "Quạt Sirocco (với\nHEPA)",
+            "SF",
+            "EF"
+          ],
+          [
+            "",
+            "2 TẦNG + 4500",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "57",
+            "Ahu & máy nén",
+            "324",
+            "",
+            "5.0",
+            "1,620",
+            "3,100",
+            "1",
+            "Quạt treo tường",
+            "LV",
+            "EF"
+          ],
+          [
+            "",
+            "NGOÀI",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "58",
+            "Nhà bảo vệ 1",
+            "25",
+            "2",
+            "1.0",
+            "60",
+            "100",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "59",
+            "WC - GH 1",
+            "15",
+            "",
+            "10.0",
+            "150",
+            "150",
+            "1",
+            "Quạt trần",
+            "DG",
+            "EF"
+          ],
+          [
+            "60",
+            "Phòng bơm (FF)",
+            "116",
+            "",
+            "5.0",
+            "578",
+            "600",
+            "1",
+            "Quạt treo tường",
+            "DG",
+            "EF"
+          ],
+          [
+            "61",
+            "Phòng bơm\n(Hệ thống ống nước)",
+            "126",
+            "",
+            "5.0",
+            "630",
+            "650",
+            "1",
+            "Quạt treo tường",
+            "DG",
+            "EF"
+          ]
+        ],
+        [
+          [
+            "",
+            "Nhiệt độ\n(0C)",
+            "Độ ẩm tương đối\n(%)",
+            "Enthanpy\n(kcal/kg)"
+          ],
+          [
+            "Mùa Hè",
+            "35.7",
+            "57.7",
+            "21,71"
+          ]
+        ]
+      ],
+      "page_25": [
+        [
+          [
+            "Mùa Đông",
+            "10,6",
+            "85,5",
+            "6,63"
+          ]
+        ],
+        [
+          [
+            "Khu Vực",
+            "Mùa Hè",
+            null,
+            null,
+            "Mùa Đông",
+            null,
+            null
+          ],
+          [
+            "",
+            "Nhiệt độ\n(0C)",
+            "Độ ẩm tương\nđối\n(%)",
+            "Enthanpy\n(kcal/kg)",
+            "Nhiệt độ\n(0C)",
+            "Độ ẩm\ntương đối\n(%)",
+            "Enthanpy\n(kcal/kg)"
+          ],
+          [
+            "Văn\nPhòng",
+            "26±3",
+            "NA",
+            "12.63",
+            "26±3",
+            "NA",
+            "12.63"
+          ],
+          [
+            "Nhà máy",
+            "Below\n26",
+            "NA",
+            "12.63",
+            "Below 26",
+            "NA",
+            "12.63"
+          ],
+          [
+            null,
+            "Below\n24",
+            "NA",
+            "11.42",
+            "Below 24",
+            "NA",
+            "11.42"
+          ]
+        ]
+      ],
+      "page_26": [
+        [
+          [
+            "STT",
+            "Tên phòng",
+            "Phòng\nĐiều kiện",
+            null,
+            null,
+            "Thiết kế\nĐiều kiện",
+            "Lựa chọn",
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            "Thể tích",
+            "Nhiệt đ\nộ",
+            "Độ ẩ\nm",
+            "Công suất\nlạnh.",
+            "Công s\nuất lạn\nh",
+            "Câu\nhỏi",
+            "Loại AC"
+          ],
+          [
+            null,
+            null,
+            "m3",
+            "Oc",
+            "%",
+            "Kw",
+            "Kw",
+            null,
+            null
+          ],
+          [
+            "",
+            "Khu vực văn phòng",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "VĂN PHÒNG 1 FL",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1",
+            "Hành lang",
+            "180",
+            "26 ±3",
+            "-",
+            "9.8",
+            "14.0",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "2",
+            "Phòng họp (VIP)",
+            "75",
+            "26 ±3",
+            "-",
+            "7.0",
+            "7.1",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "3",
+            "Phòng thí nghiệm",
+            "276",
+            "26 ±3",
+            "-",
+            "15.5",
+            "9.0",
+            "2",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "4",
+            "Phòng vi khuẩn",
+            "40",
+            "26 ±3",
+            "-",
+            "2.9",
+            "3.6",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "5",
+            "Văn phòng sản xuất",
+            "274",
+            "26 ±3",
+            "-",
+            "14.7",
+            "9.0",
+            "2",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "6",
+            "Phòng thay đồ (M)",
+            "137",
+            "26 ±3",
+            "-",
+            "16.0",
+            "14.0",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "7",
+            "Phòng thay đồ (F)",
+            "132",
+            "26 ±3",
+            "-",
+            "15.1",
+            "14.0",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "8",
+            "Văn phòng kỹ thuật",
+            "108",
+            "26 ±3",
+            "-",
+            "9.0",
+            "9.0",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "9",
+            "Xưởng",
+            "122",
+            "26 ±3",
+            "-",
+            "6.9",
+            "7.1",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "10",
+            "Lưu trữ 1",
+            "83",
+            "26 ±3",
+            "-",
+            "7.1",
+            "7.1",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "11",
+            "Phòng điện",
+            "401",
+            "26 ±3",
+            "-",
+            "21.8",
+            "10.0",
+            "2",
+            "PAC - Loại đặt sàn - Chỉ là\nm mát"
+          ]
+        ]
+      ],
+      "page_27": [
+        [
+          [
+            "12",
+            "Hành lang 1-1",
+            "393",
+            "26 ±3",
+            "-",
+            "17.9",
+            "7.1",
+            "3",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "13",
+            "Lối vào nhân viên",
+            "97",
+            "26 ±3",
+            "-",
+            "11.2",
+            "11.2",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "",
+            "VĂN PHÒNG 2 FL",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "14",
+            "Phòng họp 1",
+            "111",
+            "26 ±3",
+            "-",
+            "10.2",
+            "11.2",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "15",
+            "Phòng họp 2",
+            "66",
+            "26 ±3",
+            "-",
+            "6.4",
+            "7.1",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "16",
+            "Phòng họp 3",
+            "75",
+            "26 ±3",
+            "-",
+            "4.6",
+            "5.6",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "17",
+            "Chức",
+            "576",
+            "26 ±3",
+            "-",
+            "34.8",
+            "9.0",
+            "4",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "18",
+            "Phòng máy chủ",
+            "48",
+            "26 ±3",
+            "-",
+            "5.4",
+            "5.2",
+            "2",
+            "PAC - Loại treo tường - C\nhỉ làm mát"
+          ],
+          [
+            "19",
+            "Lưu trữ 3",
+            "53",
+            "26 ±3",
+            "-",
+            "4.4",
+            "4.5",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "20",
+            "Nhà bếp thử nghiệm",
+            "349",
+            "26 ±3",
+            "-",
+            "16.1",
+            "7.1",
+            "3",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "21",
+            "Lưu trữ 2",
+            "63",
+            "26 ±3",
+            "-",
+            "5.4",
+            "5.6",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "22",
+            "Hội trường + Khu vự\nc xem",
+            "264",
+            "26 ±3",
+            "-",
+            "15.3",
+            "5.6",
+            "3",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "23",
+            "Phòng chờ (M)",
+            "125",
+            "26 ±3",
+            "-",
+            "9.9",
+            "11.2",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "24",
+            "Phòng chờ (F)",
+            "125",
+            "26 ±3",
+            "-",
+            "9.9",
+            "11.2",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "25",
+            "Căng tin",
+            "432",
+            "26 ±3",
+            "-",
+            "55.3",
+            "14.0",
+            "4",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ]
+        ]
+      ],
+      "page_28": [
+        [
+          [
+            "26",
+            "Hành lang 2-1",
+            "180",
+            "26 ±3",
+            "-",
+            "10.4",
+            "11.2",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "",
+            "Khu vực nhà máy",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "NHÀ MÁY 1 FL",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "27",
+            "Phòng chuẩn bị 1",
+            "95",
+            "26 ±3",
+            "-",
+            "7.7",
+            "7.1",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "28",
+            "Kho vật liệu",
+            "1,485",
+            "24 ±3",
+            "-",
+            "48.7",
+            "28.0",
+            "2",
+            "VRV – Đứng trên sàn\nLoại - Chỉ làm mát"
+          ],
+          [
+            "29",
+            "Phòng chiết rót &\nPhòng trọng lượng",
+            "714",
+            "24 ±3",
+            "-",
+            "45.0",
+            "45.0",
+            "1",
+            "VRV – AHU – Làm mát\nchỉ"
+          ],
+          [
+            "30",
+            "Phòng đóng gói 1",
+            "1,272",
+            "24 ±3",
+            "-",
+            "45.0",
+            "22.4",
+            "2",
+            "VRV – Đứng trên sàn\nLoại - Chỉ làm mát"
+          ],
+          [
+            "31",
+            "Phòng đóng gói 1 (T\nương lai)",
+            "576",
+            "24 ±3",
+            "-",
+            "20.2",
+            "22.4",
+            "1",
+            "VRV – Đứng trên sàn\nLoại - Chỉ làm mát"
+          ],
+          [
+            "32",
+            "Kho bao bì",
+            "237",
+            "26 ±3",
+            "-",
+            "8.5",
+            "9.0",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "33",
+            "Con đường",
+            "116",
+            "26 ±3",
+            "-",
+            "6.5",
+            "7.1",
+            "1",
+            "VRV – Băng âm trần\nLoại - Chỉ làm mát"
+          ],
+          [
+            "34",
+            "Văn phòng Logistics",
+            "16",
+            "26 ±3",
+            "-",
+            "2.2",
+            "2.8",
+            "1",
+            "VRV – Băng âm trần\nLoại (1Flow) –Chỉ làm mát"
+          ],
+          [
+            "",
+            "NHÀ MÁY 2 FL",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "35",
+            "Phòng nấu ăn 1",
+            "770",
+            "24 ±3",
+            "-",
+            "56.8",
+            "61.5",
+            "1",
+            "VRV – AHU – Làm mát\nchỉ"
+          ],
+          [
+            "36",
+            "Phòng nấu ăn 2 (Tươ\nng lai)",
+            "567",
+            "24 ±3",
+            "-",
+            "28.9",
+            "33.5",
+            "1",
+            "VRV – AHU – Làm mát\nchỉ"
+          ],
+          [
+            "",
+            "BÊN NGOÀI",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "37",
+            "Nhà bảo vệ 1",
+            "25",
+            "26 ±3",
+            "-",
+            "3.6",
+            "2.8",
+            "1",
+            "PAC - Loại treo tường –\nChỉ làm mát"
+          ]
+        ]
+      ],
+      "page_29": [
+        [
+          [
+            "Bảng dữ liêu",
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "N",
+            "C",
+            "Ts",
+            "q1 (25-45l/psn) or\n80- 100l/psn",
+            "q2 (18-25l/p\nsn)",
+            "k\n(2.5-3)"
+          ],
+          [
+            "28",
+            "3",
+            "8",
+            "34",
+            "22",
+            "2,5"
+          ]
+        ]
+      ],
+      "page_34": [
+        [
+          [
+            "Loại hình xây dựng",
+            null,
+            "Tầm\nVA/m2",
+            "Trung bình\nVA/m2"
+          ],
+          [
+            "Văn phòng",
+            "- Không có điều hòa không khí",
+            "40 – 60",
+            "50"
+          ],
+          [
+            null,
+            "- Có điều hòa không khí",
+            "70 – 100",
+            "85"
+          ],
+          [
+            "Bãi đậu xe",
+            "- Không gian mở",
+            "0 – 10",
+            "5"
+          ],
+          [
+            null,
+            "- Có thông gió",
+            "10 – 20",
+            "15"
+          ],
+          [
+            "Công nghiệp",
+            "- Chiếu sáng",
+            "10 – 20",
+            "15"
+          ],
+          [
+            null,
+            "- Nếu có thêm thông gió",
+            "10 – 20",
+            "15"
+          ],
+          [
+            null,
+            "- Nếu có thêm điều hòa không khí (xem ghi chú)",
+            "50 – 7",
+            "40"
+          ]
+        ],
+        [
+          [
+            "Tải Điện Lắp Đặt Tối Đa Cho Các Khu Vực Ngoài Dân Dụng",
+            null,
+            null
+          ],
+          [
+            "Nhóm tải",
+            "Khu dân cư, khách sạn, nhà trọ,\nbệnh viện",
+            "Nhà xưởng, cửa hàng, kho, văn phòng,\ntrường học và nhà thờ."
+          ],
+          [
+            "A. Chiếu sáng ngoại trừ tải trong\nnhóm F",
+            "75% công suất đặt",
+            "Bằng tải đặt"
+          ],
+          [
+            "B.\n(i) Ổ cắm không lớn hơn 10A\nngoại trừ trong phần B (ii)",
+            "1000W cho ổ cắm đầu tiên cộng\nvới 400W cho mỗi ổ cắm thêm vào",
+            "1000W cho ổ cắm đầu tiên cộng với\n750W cho mỗi ổ cắm thêm vào"
+          ],
+          [
+            "(ii) Ổ cắm không lớn hơn 10A\ntrong công trình cung cấp với thiết\nbị lắp đặt cố định cho làm nóng\nhoặc lạnh cả 2",
+            "1000W cho ổ cắm đầu tiên cộng với 100W cho mỗi ổ cắm thêm vào",
+            null
+          ],
+          [
+            "(iii) Ổ cắm lớn hơn 10A",
+            "Dòng đầy tải của ổ cắm có dòng\nđịnh mực cao nhất cộng với 50%\ncủa dòng định mức của các ổ cắm\ncòn lại",
+            "Dòng đầy tải của ổ cắm có dòng định mức\ncao nhất cộng với 75% của dòng định\nmức của các ổ cắm còn lại"
+          ]
+        ]
+      ],
+      "page_35": [
+        [
+          [
+            "C. Thiết bị cho bếp, làm nóng và\nlạnh, bao gồm máy nước nóng\ntrực tiếp nhưng không bao gồm\nthiết trong nhóm D và J bên\ndưới",
+            "Dòng đầy tải của thiết bị có dòng\nđịnh mức cao nhất cộng với 50%\ndòng đầy tải của các thiết bị còn lại",
+            "Dòng đầy tải của thiết bị có dòng định\nmức cao nhất trong cộng với 75% dòng\nđầy tải của các thiết bị còn lại"
+          ],
+          [
+            "D. Động cơ ngoại trừ trong nhóm\nE và F bên dưới",
+            "Dòng đầy tải của động cơ có định\nmức cao nhất cộng với 50% dòng\nđầy tải của các động cơ còn lại",
+            "Dòng đầy tải của động cơ có định mức\ncao nhất cộng với 75% dòng đầy tảu của\nđộng cơ cao thứ 2, cộng 50% dòng đầy tải\ncủa các động cơ còn lại"
+          ],
+          [
+            "E. Hệ thống phân phối nhiên liệu",
+            "(i) Động cơ: động cơ đầu tiên – đầy tải\n1. Động cơ thứ 2 – 50% đầy tải\n2. Các động cơ thêm vào – 25% đầy tải\nTải chiếu sáng tín đầy tải",
+            null
+          ],
+          [
+            "F. Hồ bơi, spa, sauna, bình gia\nnhiệt bao gồm máy nước nóng,\nbếp lò dự phòng và những thiết\nbị tương đương",
+            "Dòng đầy tải",
+            null
+          ],
+          [
+            "G. Các thiết bị khác không nằm\ntrong nhóm ở trên",
+            "Bằng cách ước lượng",
+            null
+          ]
+        ],
+        [
+          [
+            "TÊN",
+            "ĐƠN VỊ",
+            "VIẾT TẮT"
+          ],
+          [
+            "Gia tốc",
+            "Mét trên giây bình phương",
+            "m/s2"
+          ],
+          [
+            "Diện tích",
+            "Mét vuông",
+            "m2"
+          ],
+          [
+            "Khối lượng riêng",
+            "Kg trên mét khối",
+            "kg/m3"
+          ],
+          [
+            "Dòng điện",
+            "Ampere",
+            "A"
+          ],
+          [
+            "Điện năng tiêu thụ",
+            "Kilowatt giờ",
+            "kwh"
+          ],
+          [
+            "Tóc độ dòng chảy",
+            "Mét khối trên giờ",
+            "m3/hr"
+          ],
+          [
+            "Nhiệt lượng",
+            "Kilocalorie",
+            "kCal"
+          ],
+          [
+            "Chiều dài",
+            "Millimeter",
+            "mm"
+          ],
+          [
+            "Chiều dài",
+            "Meter",
+            "m"
+          ],
+          [
+            "Chiều dài",
+            "Kilometer",
+            "km"
+          ],
+          [
+            "Khối lượng",
+            "Kg hoặc tấn",
+            "kg or ton"
+          ],
+          [
+            "Công suất",
+            "Kilowatt",
+            "kW"
+          ],
+          [
+            "Công suất",
+            "Megawatt",
+            "MW"
+          ],
+          [
+            "Tốc độ (thẳng)",
+            "Mét trên giây",
+            "m/s"
+          ]
+        ]
+      ],
+      "page_36": [
+        [
+          [
+            "Tốc độ (quay)",
+            "Vòng trên phút",
+            "RPM"
+          ],
+          [
+            "Nhiệt độ",
+            "Thang độ bách phân",
+            "ºC"
+          ],
+          [
+            "Thời gian",
+            "Giờ",
+            "hr"
+          ],
+          [
+            "Thể tích",
+            "Mét khối",
+            "m3"
+          ],
+          [
+            "Điện áp",
+            "Volt",
+            "V"
+          ]
+        ]
+      ],
+      "page_38": [
+        [
+          [
+            "Stt",
+            "Tên tải",
+            "Công suất",
+            null,
+            "",
+            "Hệ số",
+            "",
+            "",
+            "Công suất",
+            "",
+            "Ghi chú"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "nhu cầu",
+            null,
+            null,
+            "tính toán",
+            null,
+            null
+          ],
+          [
+            "",
+            "",
+            "Kw",
+            "Kva",
+            "",
+            null,
+            null,
+            "Kva",
+            null,
+            null,
+            ""
+          ],
+          [
+            "1",
+            "Chiếu sáng",
+            "28.00",
+            "35.00",
+            "1.00",
+            null,
+            null,
+            "35.00",
+            null,
+            null,
+            ""
+          ],
+          [
+            "2",
+            "Ổ cắm điện",
+            "56.30",
+            "70.38",
+            "0.60",
+            null,
+            null,
+            "42.23",
+            null,
+            null,
+            ""
+          ],
+          [
+            "3",
+            "Điều hòa không khí",
+            "145.51",
+            "181.89",
+            "0.80",
+            null,
+            null,
+            "145.51",
+            null,
+            null,
+            ""
+          ],
+          [
+            "4",
+            "Điều hòa không khí (Tương lai)",
+            "15.90",
+            "19.88",
+            "0.80",
+            null,
+            null,
+            "15.90",
+            null,
+            null,
+            ""
+          ],
+          [
+            "5",
+            "Quạt thông gió",
+            "15.41",
+            "19.26",
+            "0.80",
+            null,
+            null,
+            "15.41",
+            null,
+            null,
+            ""
+          ],
+          [
+            "6",
+            "Quạt xả gió công nghiệp",
+            "7.15",
+            "8.94",
+            "0.80",
+            null,
+            null,
+            "7.15",
+            null,
+            null,
+            ""
+          ],
+          [
+            "7",
+            "Quạt xả gió công nghiệp (tương\nlai)",
+            "7.15",
+            "8.94",
+            "0.80",
+            null,
+            null,
+            "7.15",
+            null,
+            null,
+            ""
+          ],
+          [
+            "8",
+            "AHU",
+            "58.10",
+            "72.63",
+            "0.80",
+            null,
+            null,
+            "58.10",
+            null,
+            null,
+            ""
+          ],
+          [
+            "9",
+            "AHU (Tương lai)",
+            "19.70",
+            "24.63",
+            "0.80",
+            null,
+            null,
+            "19.70",
+            null,
+            null,
+            ""
+          ],
+          [
+            "10",
+            "Kho lạnh",
+            "71.50",
+            "89.38",
+            "0.60",
+            null,
+            null,
+            "53.63",
+            null,
+            null,
+            ""
+          ],
+          [
+            "11",
+            "Máy làm lạnh - 1",
+            "46.00",
+            "57.50",
+            "1.00",
+            null,
+            null,
+            "57.50",
+            null,
+            null,
+            ""
+          ],
+          [
+            "12",
+            "Máy làm lạnh - 2 (tương lai)",
+            "46.00",
+            "57.50",
+            "1.00",
+            null,
+            null,
+            "57.50",
+            null,
+            null,
+            ""
+          ],
+          [
+            "13",
+            "Quạt chắn gió",
+            "5.40",
+            "6.75",
+            "0.60",
+            null,
+            null,
+            "4.05",
+            null,
+            null,
+            ""
+          ],
+          [
+            "14",
+            "Máy nén khí",
+            "8.00",
+            "10.00",
+            "0.80",
+            null,
+            null,
+            "8.00",
+            null,
+            null,
+            ""
+          ],
+          [
+            "15",
+            "Máy nén khí (tương lai)",
+            "8.00",
+            "10.00",
+            "0.80",
+            null,
+            null,
+            "8.00",
+            null,
+            null,
+            ""
+          ],
+          [
+            "16",
+            "Nồi hơi",
+            "5.20",
+            "6.50",
+            "0.80",
+            null,
+            null,
+            "5.20",
+            null,
+            null,
+            ""
+          ],
+          [
+            "17",
+            "Nồi hơi (Tương lai)",
+            "5.20",
+            "6.50",
+            "0.80",
+            null,
+            null,
+            "5.20",
+            null,
+            null,
+            ""
+          ],
+          [
+            "18",
+            "LPG – Hệ thống gas",
+            "15.00",
+            "18.75",
+            "0.80",
+            null,
+            null,
+            "15.00",
+            null,
+            null,
+            ""
+          ]
+        ]
+      ],
+      "page_39": [
+        [
+          [
+            "19",
+            "Máy làm lạnh bơm - 1",
+            "11.00",
+            "13.75",
+            "1.00",
+            "13.75",
+            ""
+          ],
+          [
+            "20",
+            "Máy làm lạnh bơm - 2 (tương lai)",
+            "11.00",
+            "13.75",
+            "1.00",
+            "13.75",
+            ""
+          ],
+          [
+            "21",
+            "Máy bơm cấp nước cho gia đình",
+            "4.40",
+            "5.50",
+            "0.60",
+            "3.30",
+            ""
+          ],
+          [
+            "22",
+            "Máy nước nóng",
+            "35.00",
+            "43.75",
+            "0.60",
+            "26.25",
+            ""
+          ],
+          [
+            "23",
+            "Máy bơm cấp nước cho lò hơi &\nsản xuất",
+            "7.40",
+            "9.25",
+            "0.60",
+            "5.55",
+            ""
+          ],
+          [
+            "24",
+            "Máy bơm cấp nước cho RO",
+            "7.40",
+            "9.25",
+            "0.60",
+            "5.55",
+            ""
+          ],
+          [
+            "24",
+            "Hệ thống nước RO",
+            "5.00",
+            "6.25",
+            "0.60",
+            "3.75",
+            ""
+          ],
+          [
+            "24",
+            "Bơm thoát nước",
+            "7.50",
+            "9.38",
+            "0.60",
+            "5.63",
+            ""
+          ],
+          [
+            "25",
+            "Máy bơm vòi chữa cháy",
+            "185.00",
+            "231.25",
+            "-",
+            "-",
+            ""
+          ],
+          [
+            "26",
+            "Quạt hút khói",
+            "33.00",
+            "41.25",
+            "-",
+            "-",
+            ""
+          ],
+          [
+            "27",
+            "Vòi hoa sen không khí",
+            "5.00",
+            "6.25",
+            "0.60",
+            "3.75",
+            ""
+          ],
+          [
+            "28",
+            "Thang máy",
+            "10.50",
+            "13.13",
+            "0.60",
+            "7.88",
+            ""
+          ],
+          [
+            "29",
+            "Cần cẩu",
+            "3.00",
+            "3.75",
+            "0.60",
+            "2.25",
+            ""
+          ],
+          [
+            "30",
+            "Cửa Shutter",
+            "5.00",
+            "6.25",
+            "0.60",
+            "3.75",
+            ""
+          ],
+          [
+            "30",
+            "Sấy",
+            "28.16",
+            "35.20",
+            "0.60",
+            "21.12",
+            ""
+          ],
+          [
+            "30",
+            "Máy sưởi nấu ăn",
+            "31.60",
+            "39.50",
+            "0.60",
+            "23.70",
+            ""
+          ],
+          [
+            "31",
+            "Bộ sạc xe nâng",
+            "22.00",
+            "27.50",
+            "0.60",
+            "16.50",
+            ""
+          ],
+          [
+            "31",
+            "Máy hàn",
+            "36.00",
+            "45.00",
+            "0.60",
+            "27.00",
+            ""
+          ],
+          [
+            "32",
+            "Máy sản xuất 380V",
+            "146.59",
+            "183.24",
+            "0.60",
+            "109.94",
+            ""
+          ],
+          [
+            "33",
+            "Máy sản xuất 200V",
+            "26.60",
+            "33.25",
+            "0.60",
+            "19.95",
+            ""
+          ],
+          [
+            "34",
+            "Máy sản xuất 100V",
+            "-",
+            "-",
+            "-",
+            "-",
+            ""
+          ],
+          [
+            "35",
+            "Tương lai",
+            "100.00",
+            "125.00",
+            "0.60",
+            "75.00",
+            ""
+          ],
+          [
+            "A",
+            "Tổng cộng",
+            "",
+            "1,605.84",
+            "0.59",
+            "948.58",
+            ""
+          ],
+          [
+            "B",
+            "Hệ số đồng thời của máy biến áp",
+            "",
+            "90%",
+            "",
+            "90%",
+            ""
+          ],
+          [
+            "C",
+            "Tổng 1 (A x B)",
+            "",
+            "1,445.25",
+            "",
+            "853.72",
+            ""
+          ],
+          [
+            "D",
+            "Hệ số dự phòng (An toàn)",
+            "15%",
+            "150.00",
+            "",
+            "150.00",
+            ""
+          ],
+          [
+            "E",
+            "Tổng 2 (C+D)",
+            "",
+            "1,595.25",
+            "",
+            "1,003.72",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ],
+      "page_42": [
+        [
+          [
+            "Khu vực",
+            "Độ rọi yêu cầu (Lux)"
+          ],
+          [
+            "Khu vực sản xuất\nNhà ăn, Căng tin\nPhòng thiết bị\nĐường giao thông\nNhà kho\nHành lang\nKhu vực đậu xe\nNhà vệ sinh.\nVăn phòng",
+            "500\n500\n75-150\n5\n150~300\n200\n100\n200\n500"
+          ]
+        ]
+      ]
+    },
+    "image": "[Trang 1 - Hình 1]\nDỰ ÁN\nMEGMILK SNOW BRAND VIỆT NAM\nĐia_điểm:\nLÔ C8A-1, C8A-2, C8B-3, ĐƯỜNG DỌC 1,\nTHUYẾT MINH\nKHU CÔNG NGHIỆP PHÚ AN THẠNH, XÃ\nAN THANH,\nHUYỆN\nBẾN LỨC,\nTỈNH\nLONG AN.\nITHIẾT KẾ KỸ THUÂT\nTháng 04 / 2025\n\n[Trang 2 - Hình 1]\nThuyết minh thiết kế kỹ thuật\nDự án: MEGMILK SNOW BRAND VIỆT NAM\nDUÁN: DỰ ÁN MEGMILK SNOW BRAND VIỆT NAM\n@IA ĐIỂM: LÔ C8A-l, C8A-2, C8B-3, ĐƯỜNG DỌC 1, KHU CÔNG NGHIỆP PHÚ AN\nTHANH, XÃ AN THANH, HUYỆN BẾN LỨC, TỈNH LONG AN.\nCHỦ ĐẦU TƯ\n802070294 €\nCÔNG TY\n~Tnhh\nMESLL\n5\n\"tJ\nSNOW BRAND\nV~ENaMZs a kawa\nCÔNG TY TNHH MEGMILK\nSNOW BRAND VIỆT NAM\nĐƠN VỊ ĐƯỢC ỦY QUYỀN THỰC HIỆN\nDỰ ÁN\ncâne Fì\nOBAYASHI\nVIÊTNAM\nEHd6c4XỊ HOA\nCÔNG TY OBAYASHI VIỆT NAM\nĐƠN VỊ TƯ VẤN THIẾT KÉ\nCÔNG TYT\nTNHI\nTỪ VẤnHẾ+XẾ\nPHÁT TRfỂht XÁY DUNc\nHTC\nC\n9e\n3à\nCÔNG TY TNHH TU VẤN THIÉT KẾ\nPHÁT TRIỂN XÂY DỰNG HTC\nTrang 2/44\n5\n2\nQucTLONO\n660304486820\n2\ng\n45997-€\n1.031284\n7\nNphlaPAo\n~goc\n\n[Trang 3 - Hình 1]\nminh thiết kế kỹ thuật\nán: MEGMILK SNOW BRAND VIỆT NAM\nMUC LỤC\nPHẦN I\nKIẾN TRÚC.\n093 €\nIl.\nCÁC TIÊU CHUẨN; QUY CHUẨN THIÉT KẾ\nI.2.\nGIỚI THIỆU CHUNG VỀ DỰ ÁN _\nCỗNG TY TNHFMEGMILK\n5\nquát.\nSNOW'BKANDVIÊTNAM\n13.\nPHƯƠNG ÁN THIẾT KẾ\nTHẨMĐINH\nGiải pháp\nmặt bằng._\nVan 9a83à264 6647=\nCác hạng mục xây dựng\nNgagpng4\nChi tiết các hạng mục\n'Kýw#tMIL\nSNOW BRAND\n5\nPHẦN II.\nKẾT CẤU\n0880 00090 0 0 0 0\nUInMLPLAr\n13\nILl.\nGIẢI PHÁP THIÉT KÉ CÁC HẠNG\nMụgQvE799\n13\nII.2.\nGIẢI PHÁP KẾT CẤU CHỊU LỰC CHÍNH:\n13\nIL3.\nVẬT LIỆU:\n08 8 0 088888 0 60 8 0 0\n14\nếõĩỡĩCiNFXVPGVấrK\nII.4.\nTẢI TRỌNG:\nSNOW.BRAND.VIÊINAM\n14\nII.4.1. Tải trọng bản thân\n'PHÊ-DUYÊF\n14\n11.4.2. Tĩnh tải các lớp cấu tạo sàn và tường\nFheo Quyết ainb số12104-4.4.L6 6,/l4t7cn1 5\nII.4.3. Hoat tải .\nMaminzneo S (CU L2C.2\neao\n16\nIL.4.4. Hệ số tầm quan trọng\ntrình\nÝ{êdNG=\n17\n2\n11.4.5. Tải trọng ngang do gió _\nTNHH\n17\nVPvjj#\n11.4.6. Tải trong ngang do động đất _\nSNOHBRAND\n18\nIL5.\nCÁC TIÊU CHUẲN ĐƯỢC ÁP DỤNG:\n3\nVÊLNAM\n19\nIL.6.\nPHẦN MỀM TÍNH TOÁN NỘI LỰC:\n1\n19\nPHẦN IIL\nHỆ THỐNG THÔNG GIÓ VÀ ĐIỂU HÒA KHÔNG KHÍ\n88 0\n00000\n000\n20\nIIL.1. CƠ SỞ THIẾT KẾ\n8000088\n20\nIIL.2. PHAM VICÔNG VIỆC.\n20\nIIL.3. HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ\n20\nPHẦN IV.\nHÊ THỐNG CÁP THOÁT NƯỚC\n29\nIV.1. CƠ SỞ THIẾT KẾ\n00000 0\n0000\n00 0 0 0000\n29\nPHẦN V:\nHỆ THỐNG PHỤ TRỢ\n0300 0 0 0 0 0 00 0\n32\nVl.\nHỆ THỐNG KHÍ NÉN (AIR COMPRESSOR):\n32\nV.2\nHỆ THỐNG CÁP HƠI NƯỚC NÓNG (STEAM SYSTEM):\n4 060 0 0 0 20\n32\nPHÀN VI.\nHỆ THỐNG ĐIỆN.\n'CÔNGTr'CyPHÂNKTEST\n00 0 0\n33\nVI.I. CƠ SỞ THIẾT KẾ\n0 @ 0 00\n0 00\n0*0\n33\n\"THAMTRA\"\nVI.1.1 Tiêu chuẩn thiết kế\nTlijW Vai Bàn 8õ2S6tjiVaft-#tet\n33\nVI.1.2 Các yêu cầu cho sự mâu thuẫn\n'Ngay:\n'6304225.\n36\nVI.1.3 Điều kiện thiết kế\n36\nChủ trì bộ môn ký tên:\nVL.1.4\nChống nước\n36\nTguyom TFrang 3444\nYlquuễn\nQQuốc\nĐỖ\nThuyết\nDự\n'\"8285\nTổng\n0207\ntổng\n7g\"\ncông\n8EN\nONG'\nLúS.\ntifâng:\n72\nSnhs\nTUẤN\nTHANH\n\n[Trang 18 - Hình 1]\n7h\nnandantar\nledivostok\nBellinf\nTanir\nScou\nGahzou\nokohama\nShanghal\nTai8l\nGuanozh\nAlanlla\nHo Chl Mnh Clty\nLamp4\nHong\nKcng\n\n[Trang 18 - Hình 2]\nPEAK GROUND ACCELERATION (m's=\n104 PROBABILITY OF EXCEEDANCE IN 5OYEARS. 475.vear relurn period\n0.2\n0.4\n0.8\n1.6\n2,4\n3.2\n4.0\n4.8\nLOW\nMODERATE\nHIGH\nVERY HIGH\nHAZARD\nHAZARD\nHAZARD\nHAZARD"
+  },
+  "created_at": "2025-05-25T17:11:53.739404",
+  "updated_at": "2025-05-23T11:27:42.425880",
+  "file_size": 1772693
+}
